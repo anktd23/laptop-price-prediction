@@ -16,16 +16,16 @@ The raw dataset contains 11 features and 1020 entries.`price` is the dependent f
 
 ### Attribute Information :
 ```bash
-- `model` - brand & model name of the laptop.
-- `price` - price of the laptop in rupee.
-- `score` - score/ratings of each model.
-- `processor`- types of the processor e.g. intel , ryzen wrt their generations.
-- `no_of_core`- number of cores each processor have e.g.Dual Core,Quad core, Hexa core, Octa Core etc
-- `storage`- type of storage e.g Hard disk, SSD in GB and TB
-- `ram`- RAM of the particular model in GB.
-- `display`- screen resolution of the laptop in pixels and touch type.
-- `os`- Operating system type e.g Windows,Mac,Ubuntu,Android
-- `warranty`- Warranty offered by companies in years.
+- **model** - brand & model name of the laptop.
+- **price** - price of the laptop in rupee.
+- **score** - score/ratings of each model.
+- **processor**- types of the processor e.g. intel , ryzen wrt their generations.
+- **no_of_core**- number of cores each processor have e.g.Dual Core,Quad core, Hexa core, Octa Core etc
+- **storage**- type of storage e.g Hard disk, SSD in GB and TB
+- **ram**- RAM of the particular model in GB.
+- **display**- screen resolution of the laptop in pixels and touch type.
+- **os**- Operating system type e.g Windows,Mac,Ubuntu,Android
+- **warranty**- Warranty offered by companies in years.
 ```
 ### Web Scraping :
 ```bash
@@ -49,6 +49,6 @@ There are 2 types of assessment styles
 1. Manual - Looking through the data manually in google sheets
 2. Programmatic - By using pandas functions such as info(), describe() or sample()
 
-Scraped dataset have various quality issues and tidiness issues.Please refer `data+accessing_and_cleaning.ipynb` for more details.
+Scraped dataset have various quality issues and tidiness issues.Please refer data_accessing_and_cleaning.ipynb for more details.
 
 ```
