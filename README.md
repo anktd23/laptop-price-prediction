@@ -79,3 +79,52 @@ After dataset cleaning we are able to extract more information from raw dataset.
 - OS - 'object' - Operating system type e.g Windows,Mac,Ubuntu,Android
 - warranty - 'object' Warranty offered by companies in years.
 ``` 
+
+### EDA and data pre preprocessing:
+```bash
+- `Univariate analysis` : Analyze each variable individually to understand their distribution and characteristics.
+- `Bivariate analysis` : Analyze the relationship between two variables to understand the impact of one variable on the other.
+- `Multivariate analysis` : Analyze the relationship between multiple variables to identify patterns and trends in the data.
+- `Data visualization` : Use visualizations like histograms, scatter plots,bar charts and box plots to understand the data.
+- `handle missing values` : 1. Complete Case Analysis-Drop the row #This method is used when data is missed at random(MCAR)
+                          2. Univariate Imputation -Numerical
+                                2.1 Mean-Median Imputation # This method is used when data is missing at random(MCAR)
+                                    2.1.1 Using Pandas
+                                    2.1.2 Using SciKit learn-Simple imputer (strategy = mean/median)
+                                2.2 Arbitary Value Imputation #This method is used when data is not missing at random
+                                    2.2.1 Using Pandas
+                                    2.2.2 Using SciKit learn-Simple imputer(strategy = constant)
+                                2.3. End of distribution Imputation
+                                    2.3.1 Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
+                                    2.3.2 Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
+                          3. Univariate Imputation -Categorical
+                                3.1 Frequent value imputation (mode)
+                                3.2 Missing catergory imputation (strategy='constant',fill_value='Missing')
+                          4. Random Value Imputation
+                          5. Missing Value Indicator
+                          6. Multivariate Imputation - KNN imputer
+
+- `Outliers handling` : 1. Z score method -Identify outliers as values that are a specified number of standard deviations away from the mean.
+                                            # when data is normally distributed
+                        2. Trimming
+                        3. Capping
+                        4. IQR (Interquartile Range) method: Identify outliers as values that are below the first quartile - 1.5 times
+                                              the interquartile range  or above the third quartile + 1.5 times the interquartile range.
+                        5. winsorization -Replacing the outliers with a specified value, such as the minimum or maximum value in the dataset, 
+                                          or with the value at a specified percentile.
+
+- `Scaling`: 1. Min-Max Scaling: Scale the values of the variables between 0 and 1.
+             2. Standardization(Z-score normalization): Scale the values of the variables to have a mean of zero and a standard deviation of one.
+
+             3. Max Absolute Scaling: Scale the values of the variables between -1 and 1.
+
+             4. Robust Scaling: Scale the values of the variables using the median and interquartile range to make the scaling robust to outliers.
+
+             5. Normalization: Scale the values of the variables to have a sum of one.
+
+- `Encoding`: 1. Ordinal encoding: Assign an ordered integer value to each category, reflecting the relative order or importance of the categories.
+              2. One-hot encoding: Represent each unique category as a binary variable, with a value of 1 indicating the presence of the category 
+                                  and a value 0 indicating its absence.
+              3. Using Pandas -getdummies
+
+```
