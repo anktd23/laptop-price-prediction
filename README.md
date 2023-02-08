@@ -1,6 +1,6 @@
 # Laptop Price Prediction
 
-# Problem Statement :
+## Problem Statement :
 ```bash
 - Designed a web app that predicts the price of the laptop given the configurations.
 - Scraped the laptops data from smartpix.com using selenium and BeautifulSoup package
@@ -8,7 +8,7 @@
 - Deploy model using flask library on cloud.
 ```
 
-# Web Scraping :
+## Web Scraping :
 ```bash
 Data is scraped from smartpix.com website using selenium & BeautifulSoup. We try to extract the 
 different features of the laptops such as:
@@ -24,14 +24,14 @@ different features of the laptops such as:
 - warranty
 ```
 
-# Dataset :
+## Dataset :
 ```bash
 We have scraped the data from smartpix.com.
 The raw dataset contains 11 features and 1020 entries.`price` is the dependent feature 
 and ramaining are the independent features.
 ```
 
-# Attribute Information :
+## Attribute Information :
 ```bash
 - model - brand & model name of the laptop.
 - price - price of the laptop in rupee.
@@ -45,7 +45,7 @@ and ramaining are the independent features.
 - warranty - Warranty offered by companies in years and months.
 ```
 
-# Data Assesment & Cleaning
+## Data Assesment & Cleaning
 ```bash
 - Types of Assessment
 There are 2 types of assessment styles
@@ -59,7 +59,7 @@ After dataset cleaning we are able to extract more information from raw dataset.
 
 ```
 
-# Attribute Information after data cleaning:
+## Attribute Information after data cleaning:
 ```bash
 - brand_names - 'category' - brand names eg. Apple,HP etc.
 - model name - 'object' - model name of the laptop eg. Inspiron, Lattitude.
@@ -80,7 +80,7 @@ After dataset cleaning we are able to extract more information from raw dataset.
 - warranty - 'object' Warranty offered by companies in years.
 ``` 
 
-# EDA :
+## EDA :
 ```bash
 - `Univariate analysis` : Analyze each variable individually to understand their distribution and characteristics.
 
@@ -91,7 +91,7 @@ After dataset cleaning we are able to extract more information from raw dataset.
 - `Data visualization` : Use visualizations like histograms, scatter plots,bar charts and box plots to understand the data.
 ```
 
-# Attribute Information after EDA:
+## Attribute Information after EDA:
 ```bash
 We have now 15 features with 1016 records.
 - brand_names - 'object' - brand names eg. Apple,HP etc.
@@ -111,7 +111,7 @@ We have now 15 features with 1016 records.
 - warranty - 'float' Warranty offered by companies in years.
 ``` 
 
-# Pre-processing:
+## Pre-processing:
 ```bash
 - `Missing value imputation` : 
     1. Complete Case Analysis-Drop the row 
@@ -176,7 +176,7 @@ We have now 15 features with 1016 records.
 
 ```
 
-# Model building and evaluation
+## Model building and evaluation
 ```bash
 - We have experimented using various missing value imputation methods on below ML algorithms.
 - 1. Linear Regression
