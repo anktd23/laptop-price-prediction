@@ -239,8 +239,39 @@ We have now 15 features with 1016 records.
 ```
 ## Hyperparameter tuning
 ```bash
+- Result:
+- Experiment 1: KNN imputer
+    1. Gradient Boosting - 0.913
+    2. Random Forest     - 0.893
+    3. XGB               - 0.867
 
+- Experiment 2: Simple Imputer(strategy=median)
+    1. Gradient Boosting - 0.884
+    2. XGB               - 0.848 
+    3. Random Forest     - 0.844
 
+- Experiment 3: MICE
+    1. Gradient Boosting - 0.888
+    2. Random Forest     - 0.876
+    3. Ridge Regression  - 0.80
+
+- Experiment 4: Simple Imputer(strategy=constant)
+    1. Random Forest     - 0.889
+    2. Gradient Boosting - 0.875
+    3. XGB               - 0.838
+
+- Experiment 5: Simple Imputer(strategy=mean)
+    1. Random Forest     - 0.899
+    2. Gradient Boosting - 0.890 
+    3. XGB               - 0.839
+
+- Experiment 6: PCA(stratrgy = median)
+    1. Gradient Boosting - 0.884
+    2. XGB               - 0.848
+    3. Random Forest     - 0.844
+
+- After hyperparameter tuning overfitting issue get resolved.
 
 
 ```
+### We get best accuracy 91.3 using Gradient Boosting 
