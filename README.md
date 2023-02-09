@@ -174,6 +174,8 @@ We have now 15 features with 1016 records.
 
 - `Dimenssionality Reduction`- Reducing the dimensionality of the data using techniques like PCA or feature selection.
 
+- Pipeline: Pipeline class in scikit-learn is a useful tool for creating a series of steps for transforming and applying machine learning algorithms to a dataset. It simplifies the process of testing and tuning various components of a machine learning system, and provides a convenient and consistent way of applying the same steps to both training and test data.
+
 ```
 
 ## Model building and evaluation
@@ -190,8 +192,25 @@ We have now 15 features with 1016 records.
 - 9. K-Neighbors Regressor
 - 10. SVR
 
+- We have defined two functions 
+    1. evaluate_reg    
+        - This function takes in true values and predicted values and returns r2_score ,RMSE
+    2. evaluate_models
+        - This function takes in X and y and models dictionary as input.
+        - It splits the data into Train Test split
+        - Iterates through the given model dictionary and evaluates the metrics
+        - Returns: Dataframe which contains report of all models metrics with root mean sqaured error.
+
+- Result
 # Gradient boosting with KNN imputer gives best test accuracy = 0.867048
-# XGB regressor with simple imputer(strategy=median) gives best test accuracy = 0.877405 but model is overfitted.
+# XGB regressor with simple imputer(strategy=median) gives best test accuracy = 0.877405 but model is overfitted(overfitting threshold=0.1)
 # XGB regressor with PCA & simple imputer(strategy=median) gives best test accuracy=0.877405 but model is overfitted.
+
+```
+## Hyperparameter tuning
+```bash
+
+
+
 
 ```
