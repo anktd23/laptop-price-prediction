@@ -191,6 +191,7 @@ We have now 15 features with 1016 records.
 - 8. XGB Regressor
 - 9. K-Neighbors Regressor
 - 10. SVR
+- 11. PCA
 
 - We have defined two functions 
     1. evaluate_reg    
@@ -201,10 +202,39 @@ We have now 15 features with 1016 records.
         - Iterates through the given model dictionary and evaluates the metrics
         - Returns: Dataframe which contains report of all models metrics with root mean sqaured error.
 
-- Result
-# Gradient boosting with KNN imputer gives best test accuracy = 0.867048
-# XGB regressor with simple imputer(strategy=median) gives best test accuracy = 0.877405 but model is overfitted(overfitting threshold=0.1)
-# XGB regressor with PCA & simple imputer(strategy=median) gives best test accuracy=0.877405 but model is overfitted.
+- Result:
+- Experiment 1: KNN imputer
+    1. Gradient Boosting - 0.857
+    2. Random Forest     - 0.852(overfitting)
+    3. XGB               - 0.837(overfitting)
+
+- Experiment 2: Simple Imputer(strategy=median)
+    1. XGB               - 0.877(overfitting)
+    2. Gradient Boosting - 0.858
+    3. Random Forest     - 0.842(overfitting)
+
+- Experiment 3: MICE
+    1. Gradient Boosting - 0.854
+    2. Random Forest     - 0.806(overfitting)
+    3. Ridge Regression  - 0.783
+
+- Experiment 4: Simple Imputer(strategy=constant)
+    1. Gradient Boosting - 0.864
+    2. Random Forest     - 0.833(overfitting)
+    3. XGB               - 0.832(overfitting)
+
+- Experiment 5: Simple Imputer(strategy=mean)
+    1. XGB               - 0.861(overfitting)
+    2. Gradient Boosting - 0.860
+    3. Random Forest     - 0.857(overfitting)
+    
+
+- Experiment 6: PCA(stratrgy = median)
+    1. XGB               - 0.877(overfitting)
+    2. Gradient Boosting - 0.858
+    2. Random Forest     - 0.855(overfitting)
+    
+- In all experiment gradient boosting performing well giving best accuarcy 0.864 in experiment 5.
 
 ```
 ## Hyperparameter tuning
