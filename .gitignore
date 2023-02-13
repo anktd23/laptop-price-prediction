@@ -2,3 +2,4 @@ laptop.html
 .ipynb_checkpoints
 laptop_raw_data.xlsx
 model_training - ANN.ipynb
+.env

@@ -275,3 +275,4 @@ We have now 15 features with 1016 records.
 
 ```
 ### We get best accuracy 91.3 using Gradient Boosting 
+
