@@ -1,6 +1,6 @@
 from predictor.logger import logging
-from predictor.exception import SensorException
-from predictor import get_collection_as_dataframe
+from predictor.exception import LapException
+from predictor.utils import get_collection_as_dataframe
 import sys,os
 from predictor.entity import config_entity
 from predictor.components.data_ingestion import DataIngestion

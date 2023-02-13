@@ -1,7 +1,7 @@
 from predictor import utils
 from predictor.entity import config_entity
 from predictor.entity import artifact_entity
-from predictor.exception import InsException
+from predictor.exception import LapException
 from predictor.logger import logging
 import os,sys
 import pandas as pd 
@@ -15,7 +15,7 @@ class DataIngestion:
             logging.info(f"{'>>'*20} Data Ingestion {'<<'*20}")
             self.data_ingestion_config = data_ingestion_config
         except Exception as e:
-            raise InsException(e, sys)
+            raise LapException(e, sys)
 
     def initiate_data_ingestion(self)->artifact_entity.DataIngestionArtifact:
         try:
@@ -65,5 +65,5 @@ class DataIngestion:
             return data_ingestion_artifact
 
         except Exception as e:
-            raise InsException(error_message=e, error_detail=sys)
+            raise LapException(error_message=e, error_detail=sys)
 

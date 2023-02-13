@@ -1,5 +1,5 @@
 import os,sys
-from predictor.exception import InsException
+from predictor.exception import LapException
 from predictor.logger import logging
 from datetime import datetime
 
@@ -13,7 +13,7 @@ class TrainingPipelineConfig:
         try:
             self.artifact_dir = os.path.join(os.getcwd(),"artifact",f"{datetime.now().strftime('%m%d%Y__%H%M%S')}")
         except Exception  as e:
-            raise InsException(e,sys)     
+            raise LapException(e,sys)     
 
      
 class DataIngestionConfig:
@@ -28,10 +28,10 @@ class DataIngestionConfig:
             self.test_file_path = os.path.join(self.data_ingestion_dir,"dataset",TEST_FILE_NAME)
             self.test_size = 0.15
         except Exception  as e:
-            raise InsException(e,sys)     
+            raise LapException(e,sys)     
 
     def to_dict(self,)->dict:
         try:
             return self.__dict__
         except Exception  as e:
-            raise InsException(e,sys)     
+            raise LapException(e,sys)     
