@@ -1,0 +1,1017 @@
+brand_names,model name,price,score,processor brand,processor type,processor gen,type of core,no of threads,Ram,ram type,storage type,storage capacity,screen size,screen resolution,OS,Warranty
+infinix,Infinix Zero Book Ultra ,84490,65.0,Intel,i9,12.0,14,32.0,32,lpddr5,SSD,1024.0,,,Windows 11 ,
+hp,HP Pavilion 15-ec2004AX Gaming ,52990,63.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 3520 ,45200,,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fr4000TU ,52990,63.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 15-fa0070TX ,67990,71.0,Intel,i5,12.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 ITL G2 82KBA033IH ,33999,61.0,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-eq1559AU ,29300,,AMD,athlon,3.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K101ECIN ,54990,73.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+hp,HP 15s-fq5111TU ,56899,61.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3520 D560871WIN9B ,57831,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Thin GF63 11SC-852IN Gaming ,63500,73.0,Intel,i7,11.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,2.0
+asus,Asus Vivobook 16X 2022 M1603QA-MB502WS ,49990,66.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,16.0, 1200 x 1920 ,Windows 11 ,1.0
+hp,HP 15s-fq5007TU ,47490,60.0,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book 3 ,69990,,Intel,i5,13.0,12,8.0,8,lpddr5,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 82KDA01EIH ,35499,62.0,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix Zero Book Series ZL12 ,49490,62.0,Intel,i5,12.0,12,16.0,16,lpddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows ,1.0
+lenovo,Lenovo V15 82KBA03HIH ,35499,61.0,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+infinix,Infinix INBook X1 XL11 ,30990,,Intel,i3,10.0,2,8.0,8,lpddr4x,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Air 2020 MGND3HN ,83900,,Apple,m1,,8,8.0,8,ddr4,SSD,256.0,13.3, 2560 x 1600 ,Mac ,1.0
+primebook,Primebook 4G Android ,19999,,MediaTek,kompanio,,8,4.0,4,lpddr4,Hard Disk,128.0,11.6, 1366 x 768 ,Android 11,1.0
+asus,Asus TUF Gaming A17 FA706IHRB-HX041W Gaming ,63990,67.0,AMD,ryzen,4.0,6,8.0,8,ddr4,SSD,512.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+xiaomi,Xiaomi RedmiBook Pro 15 ,42490,61.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad D330 82H0001YIN ,21499,,Intel,celeron,,4,4.0,4,ddr4,Hard Disk,128.0,10.1, 1200 x 800 ,Windows 10 ,1.0
+hp,HP 15s-er1501AU ,27990,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3511 ,38170,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.56, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo E41-55 ,18990,,AMD,athlon,,2,8.0,8,ram,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K201UEIN ,58490,69.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 16X 2022 M1603QA-MB511WS ,54490,67.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 15 OLED M6500QH-HN701WS ,65990,68.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3511 ,58490,65.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+asus,Asus Vivobook S15 OLED K3502ZA-L501WS ,67490,65.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+primebook,Primebook 4G Android ,16990,,MediaTek,kompanio,,8,4.0,4,lpddr4,Hard Disk,64.0,11.6, 1366 x 768 ,Android 11 ,1.0
+lenovo,Lenovo V15 82KDA00XIH ,38799,,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101B6IN ,52890,69.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-FR2511TU ,40990,60.0,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Thin GF63 11SC-853IN Gaming ,49990,71.0,Intel,i5,11.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,2.0
+hp,HP 15s-eq2144au ,45729,61.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 15-fa0165TX ,68200,73.0,Intel,i5,12.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 X415JA-BV301WS ,28990,,Intel,i3,10.0,2,8.0,8,ram,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 245 G8 62G68PA ,27999,,AMD,ryzen,3.0,2,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 15 OLED M3500QC-L1502WS Gaming ,69490,67.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15s-eq2182AU ,50490,63.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eg2009TU ,63490,62.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+jio,Jio JioBook NB1112MM Notebook,21999,,MediaTek,mt8788,,8,2.0,2,ram,Hard Disk,64.0,14.0, 1366 x 768 ,Android 11 ,1.0
+asus,Asus Vivobook Pro 15 OLED K6502HCB-LP901WS Gaming ,94280,69.0,Intel,i9,11.0,8,16.0,16,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3520 ,55111,,Intel,i5,12.0,10,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+dell,Dell Inspiron 5320 ,84918,65.0,Intel,i7,12.0,12,16.0,16,ddr5,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion x360 14-ek0074TU ,73490,68.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 15-fb0040AX Gaming ,59990,72.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-dy5005TU ,58899,,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 1 82R10049IN ,33019,60.0,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+i-life,i-Life ZED ZED Book Grin ,8900,,Intel,atom,,4,2.0,2,ddr3,Hard Disk,,,,Windows 10 ,1.0
+hp,HP 15s- eq2212AU ,37950,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix Zero Book Ultra ,79490,65.0,Intel,i9,12.0,14,16.0,16,lpddr5,SSD,512.0,,,Windows 11 ,
+dell,Dell Inspiron 3520 D560869WIN9B ,47990,65.0,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer One 14 Z2-493 ,20990,,AMD,ryzen,3.0,2,4.0,4,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+hp,HP Victus 16-e0352AX Gaming ,63990,72.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Air 2022 ,107990,,Apple,m2,,8,8.0,8,ddr4,SSD,256.0,13.6, 2560 x 1664 ,Mac ,1.0
+asus,Asus Zenbook 17 Fold UX9702AA-MD023WS ,329990,80.0,Intel,i7,12.0,10,16.0,16,lpddr5,SSD,1024.0,17.3, 2560 x 1920 ,Windows 11 ,1.0
+nokia,Nokia PureBook S14 NKi511TL165S ,40990,62.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,14.1, 1920 x 1080 ,Windows ,1.0
+apple,Apple MacBook Pro 16 inch ,349900,66.0,Apple,m2,,12,32.0,32,unified,SSD,1024.0,16.2, 3456 x 2234 ,Mac ,1.0
+asus,Asus Vivobook Pro 15 OLED M6500IH-HN701WS ,59990,69.0,AMD,ryzen,4.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 5 82SF008YIN ,68300,66.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 2022 FA577RE-HN055WS Gaming ,88687,80.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 X415EA-EK701WS ,56990,69.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X1500EA-EJ701W ,56490,63.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 247 G8 ‎6B5R3PA ,30290,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,DOS,1.0
+asus,Asus Vivobook 15 2022 X1502ZA-EJ312WS ,42600,,Intel,i3,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14-dv2041TU ,71990,62.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 14 OLED M3400QA-KM502WS Gaming ,53990,69.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 FA506IHRZ-HN111W ,54589,69.0,AMD,ryzen,4.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 5 A515-57G UN.K9TSI.002 Gaming ,62990,69.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82RK0062IN ,57459,,Intel,i5,12.0,10,8.0,8,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 1 82R1004AIN ,38900,61.0,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Gaming Crosshair 15 B12UEZ-677IN ,110900,84.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,2.0
+dell,Dell G15-5511 Gaming ,69790,69.0,Intel,i5,11.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eg2002TU ,70990,65.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-fq1092au ,46300,65.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X515EA-EJ322WS ,38490,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 16-e0162AX Gaming ,56960,65.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Latitude 5420 ,74500,60.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Latitude 3420 ,66990,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+hp,HP 14s-dq2649TU ,45890,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 247 G8 600A9PA ,32999,61.0,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 K513EP-BQ1093T ,45990,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101GSIN ,54990,72.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-dr3001TU ,26990,,Intel,pentium,,4,8.0,8,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 X415JA-EK522WS ,41990,60.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,
+lenovo,Lenovo E41-55 82FJ00AGIH ,18990,,AMD,athlon,,2,4.0,4,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 3 A315-59 ,39990,,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K201Y9IN ,50850,73.0,AMD,ryzen,5.0,6,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+asus,Asus VivoBook 15 X515EA-EJ522WS ,50990,61.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82KU017EIN ,48990,65.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X1 Neo XL22 ,24999,,Intel,celeron,,4,8.0,8,lpddr4x,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fq2671TU ,38490,,Intel,i3,,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+xiaomi,Xiaomi Redmi Book Pro 15 2022 ,61990,73.0,Intel,i5,12.0,8,16.0,16,lpddr5,SSD,512.0,15.6, 3200 x 2000 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K201ULIN ,66829,75.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Pro 2022 ,139990,,Apple,m2,,8,8.0,8,ram,SSD,512.0,13.3, 2560 x 1600 ,Mac ,1.0
+lenovo,Lenovo Ideapad Slim 3 81WB01EBIN ,36490,60.0,Intel,i3,10.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+asus,Asus Vivobook S14 OLED S3402ZA-KM501WS ,74990,63.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+lenovo,Lenovo V15-IGL 82C3A008IH ,19990,,Intel,celeron,,2,4.0,4,ddr4,SSD,256.0,15.6, 1920 x 1080 ,DOS,1.0
+realme,Realme Book Slim ,59990,61.0,Intel,i5,11.0,4,8.0,8,lpddr4x,SSD,512.0,14.0, 1440 x 2160 ,Windows 10 ,1.0
+samsung,Samsung Galaxy Book 2 NP550XED-KA3IN ,72990,63.0,Intel,i7,11.0,10,16.0,16,lpddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K1017WIN ,52900,71.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 15-fa0092TX ,81990,69.0,Intel,i5,12.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 2022 X1402ZA-MW511WS ,66990,74.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 7 A715-51G NH.QGCSI.001 Gaming ,69990,74.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer One 14 Z2-493 ,29990,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+dell,Dell Inspiron 3525 D560789WIN9S ,49350,68.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Dash F15 2022 FX517ZC-HN108WS Gaming ,99500,76.0,Intel,i7,12.0,10,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-ey1508AU ,28450,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X1500EA-EJ322WS ,35385,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming F15,94990,79.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 5 A515-57G Gaming ,59999,67.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 7420 D560780WIN9S ,52106,65.0,Intel,i3,12.0,6,8.0,8,ddr4,SSD,256.0,,,Windows 11 ,
+hp,HP 255 G8 62Y23PA ,31990,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 14 OLED M3400QA-KM512WS Gaming ,59990,72.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus TUF Gaming F15 FX506LHB-HN355WS Gaming ,56500,63.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+honor,Honor MagicBook X14 ,46990,63.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3510 ,42290,,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+asus,Asus Vivobook 13 Slate OLED T3300KA-LQ122WS ,29990,,Intel,pentium,,4,4.0,4,lpddr4x,Hard Disk,128.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook K15 OLED KM513UA-L503WS ,53990,65.0,AMD,ryzen,5.0,6,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+hp,HP 15s-eq2143au ,38490,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows ,1.0
+apple,Apple MacBook Pro 14 inch MKGP3HN ,171594,,Apple,m1,,8,16.0,16,unified,SSD,512.0,14.2, 3024 x 1964 ,Mac ,1.0
+asus,Asus Chromebooks C523NA-BR0300 ,16990,,Intel,celeron,,2,4.0,4,lpddr4x,Hard Disk,,,,Chrome ,1.0
+hp,HP 15s-fq2717TU ,43650,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+xiaomi,Xiaomi Mi Notebook Pro 14 ,57990,62.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 2560 x 1600 ,Windows 10 ,1.0
+acer,Acer Aspire 7 A715-51G UN.QGCSI.002 Gaming ,73990,76.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eg2091TU ,74070,63.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X1500EA-EJ522WS ,46450,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP ProBook 440 G8 ,51990,,Intel,i5,,4,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+hp,HP Omen 16-n0079AX Gaming ,104990,81.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Chromebook Flip C214MA-BU0704 ,15990,,Intel,celeron,,2,4.0,4,lpddr4x,Hard Disk,32.0,11.6, 1366 x 768 ,Chrome ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15IAH7 82S900R6IN ,80990,75.0,Intel,i5,12.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15s-FR5007TU ,62950,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Flex 5 82R9008GIN ,61618,74.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 15 OLED M6500IH-L1701WS ,65990,68.0,AMD,ryzen,4.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 2022 X1502ZA-EZ311WS Touch ,45690,,Intel,i3,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-dy2507TU ,35990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15s-fq5112TU ,63900,,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Strix G17 2022 G713IE-HX040W Gaming ,87990,75.0,AMD,ryzen,4.0,8,16.0,16,ddr4,SSD,1024.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 7 A715-75G NH.QGBSI.001 Gaming ,57990,69.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Dash F15 2022 FX517ZC-HN035WS Gaming ,75990,72.0,Intel,i5,12.0,8,8.0,8,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X1 Slim Series XL21 ,32990,,Intel,i3,10.0,2,8.0,8,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 14 OLED M3400QA-KM702WS Gaming ,64990,71.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+hp,HP Pavilion 14-dv2053TU ,62250,60.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5520 ,106210,75.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 3 A315-58 ,45599,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3525 ,31850,,AMD,athlon,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 Pro 360 15 ,129990,74.0,Intel,i7,12.0,8,16.0,16,lpddr5,SSD,512.0,15.6, 1080 x 1920 ,Windows 11 ,1.0
+hp,HP Pavilion 15-EC2146AX Gaming ,73829,72.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X1 XL11 ,37490,,Intel,i5,10.0,4,8.0,8,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3511 ,59306,61.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP 245 G8 ‎6E3Z1PA ,26490,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,DOS,1.0
+apple,Apple MacBook Pro 16 ,201498,82.0,Intel,i9,9.0,8,32.0,32,ddr4,SSD,2048.0,16.0, 3072 x 1920 ,Mac Catalina ,1.0
+apple,Apple MacBook Pro 16 ,172775,73.0,Intel,i7,9.0,6,16.0,16,ddr4,SSD,1024.0,16.0, 3072 x 1920 ,Mac Catalina ,1.0
+asus,Asus Vivobook Pro 16 OLED K6602HC-N1902WS Gaming ,99990,75.0,Intel,i9,11.0,8,16.0,16,ddr4,SSD,512.0,16.0, 1200 x 1920 ,Windows 11 ,1.0
+acer,Acer Aspire 5 A515-57 NX.K2VSI.002 ,42990,,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X2 Plus XL25 ,30990,,Intel,i3,11.0,2,8.0,8,lpddr4x,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X2 Plus XL25 ,47990,,Intel,i5,11.0,4,8.0,8,lpddr4x,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X2 Plus XL25 ,52990,,Intel,i7,11.0,4,16.0,16,lpddr4x,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+honor,Honor MagicBook 14 M-WFQ9AHNE ,44990,,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3520 D560879WIN9S ,67990,62.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K201V2IN ,76990,74.0,AMD,ryzen,5.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 15 OLED M3500QC-L1461WS Gaming ,69500,69.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 2022 X1402ZA-EK391WS ,44990,60.0,Intel,i3,12.0,10,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Thin GF63 12HW-004IN Gaming ,73490,60.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+lenovo,Lenovo IdeaPad Gaming 3 82SA00B2IN ,99918,79.0,Intel,i5,12.0,14,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+chuwi,Chuwi HeroBook Air ,15990,,Intel,,,2,4.0,4,ram,SSD,128.0,14.1, 1366 x 768 ,Windows 11 ,0.08
+acer,Acer Extensa 15 EX215-54 ,33329,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X515JA-EJ382WS ,33690,,Intel,i3,10.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Air M2 2022 ,150990,,Apple,m2,,8,16.0,16,unified,SSD,512.0,13.6, 2560 x 1664 ,Mac ,1.0
+hp,HP 15s-fr2514TU ,36990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-dr3506TU ,43990,61.0,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+dell,Dell Inspiron 3525 ,41100,63.0,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 15-fa0350TX ,76990,75.0,Intel,i5,12.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Yoga Slim 7 Pro 82NC00EWIN ,69329,62.0,Intel,i5,11.0,4,16.0,16,lpddr4x,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eg2039TU ,89990,66.0,Intel,i7,12.0,12,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook S15 OLED S3502ZA-L502WS ,72400,65.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 2022 X1502ZA-BQ502WS ,56825,63.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+avita,Avita Satus Ultimus S111 ,16990,,Intel,celeron,,2,4.0,4,ddr4,SSD,128.0,14.1, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14-ec1003AU ,52545,60.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-fq1089au ,39990,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Air 2020 Z124J001KD ,104990,,Apple,m1,,8,16.0,16,ddr4,SSD,256.0,13.3, 2560 x 1600 ,Mac ,1.0
+infinix,Infinix INBook X1 XL12 ,46990,,Intel,i7,10.0,4,16.0,16,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+realme,Realme Book Slim ,46990,,Intel,i3,11.0,2,8.0,8,lpddr4x,SSD,256.0,14.0, 1440 x 2160 ,Windows 10 ,1.0
+dell,Dell Inspiron 5518 ,67990,71.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP 11A-NA0002MU Chromebook,18629,,MediaTek,mt8183,,8,4.0,4,ddr4,Hard Disk,,,,Chrome ,
+lenovo,Lenovo V15 82KDA01UIH ,32990,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,DOS,1.0
+hp,HP 15s-GR0012AU ,44990,62.0,AMD,ryzen,3.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+huawei,Huawei Qingyun L410 ,44990,,HiSilicon,kirin,,,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,Deepin ,1.0
+apple,Apple MacBook Air 2020 MGN73HN ,104990,,Apple,m1,,8,8.0,8,ddr4,SSD,512.0,13.3, 2560 x 1600 ,Mac ,1.0
+hp,HP EliteBook 840 G6,90464,,Intel,i5,8.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,3.0
+hp,HP Envy x360 15-ew0048TU ,109990,73.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,1024.0,15.6, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 2022 X1502ZA-EJ514WS ,56490,62.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix Zero Book Series ZL12 ,64490,63.0,Intel,i7,12.0,14,16.0,16,lpddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows ,1.0
+dell,Dell G15-5521 D560897WIN9S Gaming ,138990,71.0,Intel,i9,12.0,14,16.0,16,lpddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 OLED X1505ZA-L1511WS ,67500,61.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+microsoft,Microsoft Surface Pro 9 QEZ-00065 ,99999,,Intel,i5,12.0,10,8.0,8,lpddr5,SSD,256.0,13.0, 2880 x 1920 ,Windows 11 ,1.0
+hp,HP Victus 15-fb0082AX Gaming ,71990,72.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer One 14 Z2-493 Business ,39990,,AMD,ryzen,3.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+dell,Dell Inspiron 5320 ,76990,66.0,Intel,i5,12.0,12,16.0,16,ddr5,SSD,512.0,13.3, 2560 x 1600 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 2022 FA506QM-HN008W Gaming ,89990,75.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Pulse GL66 12UEK-898IN Gaming ,125990,75.0,Intel,i9,12.0,14,16.0,16,ddr4,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,2.0
+lenovo,Lenovo IdeaPad Slim 3 81X800LCIN ,34490,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ProArt StudioBook Pro 16 OLED H7600ZM-L701WS ,198490,88.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,16.0, 3840 x 2400 ,Windows 11 ,1.0
+msi,MSI Bravo 15 B5DD-410IN Gaming ,49990,68.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Slim 3 82H802KVIN ,53209,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X1 Neo ,20990,,Intel,celeron,,4,4.0,4,lpddr4x,SSD,128.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 14ITL6 82H701DYIN ,37990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 3 A315-23 UN.HVTSI.013 ,26990,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP 15s-eq1560AU ,37990,61.0,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 5625 laptop,52290,71.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP Pavilion 14-eh0024TU ,93029,74.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,1024.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82H701DNIN ,37990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ZenBook Pro Duo 15 OLED 2022 UX582ZM-H701WS ,199990,,Intel,i7,12.0,14,32.0,32,ddr4,SSD,1024.0,15.6, 3840 x 2160 ,Windows 11 ,2.0
+hp,HP Victus 15-fa0354TX ,96099,63.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Dash F15 2022 FX517ZC-HN083WS Gaming ,81990,67.0,Intel,i5,12.0,8,16.0,16,ddr5,SSD,512.0,15.6, 1080 x 1920 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82RK006DIN ,42026,,Intel,i3,12.0,6,8.0,8,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 16-e0650AX Gaming ,68499,74.0,AMD,ryzen,5.0,8,8.0,8,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Nitro 5 AN515-56 Gaming ,62990,73.0,Intel,i5,11.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 2022 X1402ZA-EB311WS ,47990,60.0,Intel,i3,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 16X 2022 M1603QA-MB711WS ,66990,72.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eg2036TU ,69990,63.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 FA506ICB-HN005W ,69990,68.0,AMD,ryzen,4.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 Touch X515EA-EZ311WS ,41990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming F15 FX577ZM-HQ067WS ,122990,81.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+acer,Acer Aspire Vero AV15-51-5155 ,49990,66.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Air 2022 ,131990,,Apple,m2,,8,8.0,8,unified,SSD,512.0,13.6, 2560 x 1664 ,Mac ,1.0
+asus,Asus TUF Gaming F15 FA506IHRB-HN079W Gaming ,54790,72.0,AMD,ryzen,4.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 ,79990,63.0,Intel,i5,12.0,12,8.0,8,lpddr4x,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 15 ,61990,60.0,Intel,i5,12.0,10,8.0,8,lpddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 81WQ00MQIN ,27142,,Intel,celeron,,2,8.0,8,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+dell,Dell G15-5520 ,84990,67.0,Intel,i5,12.0,12,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15-EG2035TU ,71999,67.0,Intel,i5,12.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Nitro 5 AN515-58 Gaming ,77559,69.0,Intel,i5,12.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 2021 FA506QM-HN124W ,98490,75.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 5625 laptop,62490,72.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book Go ,32990,,Qualcomm,qualcomm,2.0,,4.0,4,lpddr4x,Hard Disk,128.0,,,Windows 11 ,1.0
+dell,Dell Vostro 3400 ,58990,66.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 15ITL6 82H801L3IN ,36400,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+xiaomi,Xiaomi Mi Notebook Ultra ,62899,66.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 3200 x 2000 ,Windows 10 ,1.0
+msi,MSI Bravo 15 B5DD-043IN Gaming ,58500,69.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad 3 15ITL6 82H8014BIN ,56000,61.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+acer,Acer Extensa EX215-31 ,22750,,Intel,pentium,,4,4.0,4,ram,Hard Disk,1024.0,15.6, 768 x 1366 ,Windows 10 ,1.0
+microsoft,Microsoft Surface ,67000,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,256.0,12.4, 1536 x 1024 ,Windows 10 ,1.0
+dell,Dell Precision 5550 ,184999,71.0,Intel,i7,10.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1200 ,Windows 10 ,
+apple,Apple MacBook Pro 14 inch ,199900,,Apple,m2,,10,16.0,16,unified,SSD,512.0,14.2, 3024 x 1964 ,Mac ,1.0
+lenovo,Lenovo Yoga 9i 83B1002GIN ,174990,78.0,Intel,i7,13.0,12,16.0,16,lpddr5,SSD,1024.0,14.0, 3840 x 2400 ,Windows 11 ,3.0
+chuwi,Chuwi CoreBook X ,33990,,Intel,i3,12.0,6,16.0,16,ddr4,SSD,512.0,14.0, 2160 x 1440 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 X1502ZA-EJ381WS ,42990,,Intel,i3,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Envy x360 15-ew0037TU ,82999,72.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5520 D560897WIN9S ,149899,78.0,Intel,i9,12.0,14,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 255 G8 Business ,27499,,AMD,athlon,3.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo E41-55 82FJ00ALIH ,18990,,AMD,athlon,3.0,2,4.0,4,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,DOS,1.0
+msi,MSI Katana GF66 12UC-632IN Gaming ,81990,73.0,Intel,i7,12.0,14,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+dell,Dell Inspiron 5620 ,98450,69.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Strix G15 G513IE-HN088WS Gaming ,82990,69.0,AMD,ryzen,4.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14-dv2014TU ,69858,65.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Slim 3 81WD014XIN ,31990,,Intel,i3,10.0,2,4.0,4,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 X415EA-EK522WS ,49990,65.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 16X M1603QA-MB512WS ,54980,68.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,16.0, 1200 x 1920 ,Windows 11 ,1.0
+dell,Dell Latitude 3430 ,108000,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 5 Pro 82RF00E1IN Gaming ,218110,,Intel,i7,12.0,14,32.0,32,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+xiaomi,Xiaomi Book Air 13 ,68990,66.0,Intel,i5,12.0,10,16.0,16,lpddr5,SSD,512.0,13.3, 2880 x 1800 ,Windows 11 ,
+dell,Dell Inspiron 5420 ,79490,,Intel,i7,12.0,10,16.0,16,ram,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eg2018TX ,59175,,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+microsoft,Microsoft Surface ,98990,,Intel,i5,12.0,10,8.0,8,ram,SSD,256.0,13.5, 2256 x 1504 ,Windows 11 ,1.0
+infinix,Infinix INBook X2 Plus XL25 ,33990,,Intel,i3,11.0,2,8.0,8,lpddr4x,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Omen 17-ck1023TX Gaming ,309990,85.0,Intel,i9,12.0,,32.0,32,ddr5,SSD,2048.0,16.1, 2560 x 1440 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 5 82RB00K8IN ,141990,86.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1600 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K201YAIN ,51018,69.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF F15 FA507RE-HN043WS 2022 Gaming ,89990,79.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo E41-55 AMD ,22999,,AMD,athlon,,2,8.0,8,ram,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+honor,Honor MagicBook X 14 2022 ,52999,65.0,Intel,i5,12.0,10,16.0,16,lpddr4x,SSD,512.0,14.0, 2240 x 1400 ,Windows 11 ,1.0
+honor,Honor MagicBook X 16 2022 ,52999,63.0,Intel,i5,12.0,10,16.0,16,lpddr4x,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP Envy x360 13-bf0078TU ,80990,65.0,Intel,i5,12.0,10,8.0,8,lpddr4x,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K1019BIN ,68989,71.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Katana GF66 12UD-640IN Gaming ,82500,76.0,Intel,i5,12.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+lenovo,Lenovo V15 Gen 2 ,40871,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.0, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Vector GP66 12UEO-646IN Gaming ,122802,85.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+acer,Acer Predator Helios 300 PH315-55 Gaming ,159990,76.0,Intel,i9,12.0,14,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+xiaomi,Xiaomi Notebook Pro 120G ,76490,73.0,Intel,i5,12.0,8,16.0,16,lpddr5,SSD,512.0,14.0, 2560 x 1600 ,Windows 11 ,1.0
+asus,Asus VivoBook Pro 15 OLED K6500ZE-L501WS ,92990,69.0,Intel,i5,12.0,8,16.0,16,lpddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Modern 14 B5M-242IN ,43400,,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 81X800LAIN ,38500,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 82RK0064IN ,58099,60.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Latitude 5320 Business ,102400,62.0,Intel,i5,,4,8.0,8,ddr4,SSD,512.0,13.3, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus ROG Zephyrus G14 2022 GA402RK-L8148WS Gaming ,199990,87.0,AMD,ryzen,6.0,8,32.0,32,ddr5,SSD,1024.0,14.0, 2560 x 1600 ,Windows 11 ,1.0
+msi,MSI Thin GF63 11UC-867IN Gaming ,56890,67.0,Intel,i5,11.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,2.0
+hp,HP 15s-fq2672TU ,41990,61.0,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-fq0568AU ,25829,,AMD,athlon,3.0,2,8.0,8,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+acer,Acer Predator Helios 500 Ph517-52 Gaming ,432159,,Intel,i9,11.0,8,64.0,64,ddr4,Hard Disk,1024.0,17.3, 3840 x 2160 ,Windows 10 ,
+lenovo,Lenovo IdeaPad Gaming 3 82K10198IN ,53918,68.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fq2673TU ,43210,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s- fr2512TU ,42300,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 82KBA03TIH ,38790,,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+lenovo,Lenovo IdeaPad Slim 3 81X800LGIN ,37839,,Intel,i3,11.0,,8.0,8,ddr4,SSD,512.0,,,Windows 11 ,2.0
+dell,Dell Inspiron 7420 ,76490,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+asus,Asus ROG Strix G15 G513IE-HN040WS Gaming ,90990,75.0,AMD,ryzen,4.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X1 Slim XL21 ,38990,,Intel,i5,10.0,4,16.0,16,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 5 15IMH6 82NL00APIN Gaming ,72016,69.0,Intel,i5,10.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming F17 FX707ZM-HX030WS ,109990,76.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14-dv2015TU ,87028,65.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15s-fq5010TU ,63350,62.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 5520 ,79990,73.0,Intel,i5,12.0,12,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15-EG2019TX ,78200,60.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 15 ,79990,62.0,Intel,i7,11.0,10,16.0,16,lpddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook K15 OLED KM513UA-L711WS ,60500,66.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fq2627TU ,40580,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo E41-55 82FJ009JIH ,19230,,AMD,athlon,,2,4.0,4,ram,Hard Disk,1024.0,,,DOS,
+hp,HP 14s-dr4000TU ,59494,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 Pro 360 13 ,113990,73.0,Intel,i7,12.0,8,16.0,16,lpddr5,SSD,512.0,13.3, 1080 x 1920 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K201RRIN ,65890,73.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 13 Slate OLED T3300KA-LQ111WS ,41990,,Intel,pentium,,4,8.0,8,lpddr4x,SSD,256.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad 15ALC6 82KU017KIN ,44329,,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-dy2506TU ,35990,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook X515JA-EJ701WS ,58000,,Intel,i7,10.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Pro 16 inch MK1A3HN ,296894,61.0,Apple,m1,,10,32.0,32,unified,SSD,1024.0,16.2, 3456 x 2234 ,Mac ,1.0
+dell,Dell Inspiron 3511 ,41490,,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+hp,HP Pavilion 15-ec2008AX Gaming ,62357,71.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP Pavilion 15-DK2100TX Gaming ,68690,75.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+xiaomi,Xiaomi RedmiBook e-Learning Edition,31990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 5515 ,50990,67.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+xiaomi,Xiaomi RedmiBook Pro 14 ,52990,65.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,14.0, 2560 x 1600 ,Windows 10 ,1.0
+dell,Dell Inspiron 5410 ,66500,,Intel,i5,11.0,4,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo Yoga 9i 82BG005JIN ,172990,67.0,Intel,i7,11.0,4,16.0,16,lpddr4x,SSD,1024.0,14.0, 3840 x 2160 ,Windows 10 ,1.0
+dell,Dell Inspiron 3501 ,57690,,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+lenovo,Lenovo ThinkPad X1 Carbon 20KH002JUS ,197281,67.0,Intel,i7,8.0,4,16.0,16,lpddr3,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,
+hp,HP EliteBook 840 G6,146000,66.0,Intel,i7,8.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,3.0
+lenovo,Lenovo V15 82KBA01TIH ,49490,65.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Envy x360 15-ew0043TU 2-in-1 ,99999,71.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Pro 16 inch ,269900,,Apple,m2,2.0,12,16.0,16,unified,SSD,1024.0,16.2, 3456 x 2234 ,Mac ,1.0
+apple,Apple MacBook Pro M2 2022 ,159990,,Apple,m2,,8,16.0,16,unified,SSD,512.0,13.3, 2560 x 1600 ,Mac ,1.0
+apple,Apple MacBook Pro 2022 ,139990,,Apple,m2,,8,16.0,16,unified,SSD,256.0,13.3, 2560 x 1600 ,Mac ,1.0
+apple,Apple MacBook Air 2022 ,131990,,Apple,m2,,8,16.0,16,unified,SSD,256.0,13.6, 2560 x 1664 ,Mac ,1.0
+hp,HP Omen 16-n0091AX Gaming ,115903,69.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Modern 15 B12M-202IN ,55490,61.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ExpertBook 1411CEA-BV0622 ,38990,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,DOS,1.0
+hp,HP Envy x360 13-bf0121TU  ,86990,72.0,Intel,i5,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.4, 1920 x 1200 ,Windows 11 ,1.0
+dell,Dell Vostro 3525 ,51499,60.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3420 ,43990,,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Modern 15 B12M ,68490,62.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 5 A515-57 2022 ,56990,66.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion x360 14-ek0137TU ,59990,66.0,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo E41-55 82FJ00BLIH ,20990,,AMD,athlon,3.0,2,4.0,4,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+ultimus,Ultimus S151 NU14U2INC43VN-CS ,19990,,Intel,celeron,,2,4.0,4,ddr4,SSD,128.0,14.1, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Alienware M15 R7 Gaming ,168990,84.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-eq2213AU ,40960,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows ,
+dell,Dell Inspiron 3520 ,66111,61.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 16X OLED N7601ZM-MQ931WS Gaming ,208990,,Intel,i9,12.0,14,32.0,32,ddr5,SSD,1024.0,16.0, 3840 x 2400 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82RK007JIN ,45500,,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 82KU017KIN ,47464,,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 255 G8 6X4B2PA ,21833,,AMD,athlon,3.0,2,4.0,4,ddr4,SSD,256.0,15.6, 1920 x 1080 ,DOS,1.0
+lenovo,Lenovo ThinkPad E14 21E3S04X00 ,75000,66.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82S900HNIN ,80990,73.0,Intel,i5,12.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+jio,Jio JioBook NB2112QB Netbook,15799,,Qualcomm,qualcomm,,8,2.0,2,lpddr4x,Hard Disk,32.0,11.6, 1366 x 768 ,Jio,1.0
+lenovo,Lenovo Legion 5 Pro 16IAH7H 82RF00DYIN Gaming ,164990,84.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+hp,HP 250 G8 6X4B3PA ,36499,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+hp,HP Envy 16-h0026tx ,220208,78.0,Intel,i9,12.0,14,32.0,32,ddr4,SSD,1024.0,15.6, 3840 x 2160 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 X415JA-BV322WS ,33990,,Intel,i3,10.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Envy x360 13-bf0063TU ,114990,71.0,Intel,i7,12.0,10,16.0,16,lpddr4x,SSD,1024.0,13.3, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 2022 X1402ZA-MW311WS ,47990,63.0,Intel,i3,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Gaming Katana GF76 11SC-847IN ,78990,72.0,Intel,i5,11.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+msi,MSI Gaming Katana GF76 11UC-848IN ,86910,69.0,Intel,i7,11.0,8,16.0,16,ram,SSD,512.0,17.32, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Crosshair 15 B12UGZ-1012IN Gaming ,135990,81.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,2.0
+msi,MSI Alpha 15 B5EEK-235IN ,82490,75.0,AMD,ryzen,5.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Strix Scar 17 SE G733CX-LL012WS Gaming ,399990,86.0,Intel,i9,12.0,,32.0,32,ddr5,SSD,4096.0,17.3, 2560 x 1440 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 X415JA-EK324WS ,33990,,Intel,i3,10.0,2,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Delta 15 A5EFK-201IN Gaming ,94401,79.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook Pro 15 OLED K6500ZC-L502WS ,86990,73.0,Intel,i5,12.0,8,16.0,16,lpddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 5 15ACH6 82JU018YIN Gaming ,119990,75.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V14-IGL ,22999,,Intel,celeron,,2,4.0,4,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Nitro 5 AN515-45 Gaming ,59990,69.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-dy2508TU ,41399,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5521 SE D560738WIN9B ,147490,85.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+acer,Acer Nitro AN515-57 Gaming ,77106,73.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ZenBook Pro Duo 14 OLED 2022 UX8402ZE-M711WS ,159990,81.0,Intel,i7,12.0,14,16.0,16,lpddr5,SSD,1024.0,14.5, 2880 x 1800 ,Windows 11 ,1.0
+dell,Dell Vostro 3425 D552305WIN9BE ,35290,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3425 D552309WIN9BE ,41490,61.0,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A17 FA706IHR-HX031W Gaming ,70000,71.0,AMD,ryzen,4.0,6,8.0,8,ddr4,SSD,512.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Slim 3i 81WQ00NXIN ,28490,,Intel,celeron,,2,8.0,8,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+dell,Dell Inspiron 3525 ,38990,60.0,AMD,ryzen,3.0,2,8.0,8,ddr4,Hard Disk,1024.0,,,Windows 11 ,
+msi,MSI Thin GF63 11UC-866IN Gaming ,65890,69.0,Intel,i7,11.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,2.0
+lenovo,Lenovo Ideapad Gaming 3 82K201UMIN ,79990,67.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 15 M3500QC-L901WS Gaming ,90480,,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Yoga 7 Flip 82QE009SIN ,112990,71.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+hp,HP 15s-du3614TU ,41135,61.0,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+asus,Asus TUF Gaming A17 FA706IC-HX036W ,73850,68.0,AMD,ryzen,4.0,8,8.0,8,ddr4,SSD,512.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fq2674TU ,43990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Gaming 3 82K201UNIN ,89350,75.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell XPS 13 Plus 9320 ,178606,71.0,Intel,i7,12.0,12,16.0,16,ram,SSD,1024.0,13.4, 3840 x 2400 ,Windows 11 ,1.0
+lg,LG Gram 17 17Z90Q-G.AJ55A2 ,87990,69.0,Intel,i5,12.0,12,8.0,8,lpddr5,SSD,512.0,17.0, 1600 x 2560 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82RK0085IN ,61880,,Intel,i5,12.0,10,16.0,16,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,
+msi,MSI Katana GF66 11UE-861IN Gaming ,86990,74.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,2.0
+dell,Dell Inspiron 7420 2-in-1 Touch ,61390,65.0,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+dell,Dell Inspiron 7420 2-in-1 ,102990,63.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+asus,Asus ROG Flow Z13 2022 GZ301ZE-LD064WS Gaming ,181990,68.0,Intel,i9,12.0,14,16.0,16,lpddr5,SSD,1024.0,13.4, 1920 x 1200 ,Windows 11 ,1.0
+infinix,Infinix INBook X1 Slim Series XL21 ,54990,,Intel,i7,10.0,4,16.0,16,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X1 Slim Series XL21 ,30990,,Intel,i3,10.0,2,8.0,8,lpddr4x,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Omen 16-b1350TX ,125680,74.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Thin GF63 11UC-850IN Gaming ,71990,72.0,Intel,i7,11.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,2.0
+lenovo,Lenovo ThinkBook 15 20VEA0YPIH ,39390,,Intel,i3,11.0,2,8.0,8,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 15 ,61990,,Intel,i5,12.0,10,8.0,8,lpddr4x,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 15IGL05 81WQ00MQIN ,29990,,Intel,celeron,,2,8.0,8,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus Vivobook S14 OLED S3402ZA-KM701WS ,84990,72.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+acer,Acer Extensa EX215-31 ,22480,,Intel,pentium,,4,4.0,4,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+hp,HP Envy 15-ep1085TX ,114490,78.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 3840 x 2160 ,Windows ,1.0
+dell,Dell Latitude 3420 ,76800,65.0,Intel,i5,11.0,4,16.0,16,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,Windows 10 ,
+hp,HP Victus 16-e0351AX Gaming ,87490,72.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3521 ,31734,,Intel,pentium,,4,8.0,8,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo V15 82KBA020IH ,36999,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.0, 1920 x 1080 ,DOS,1.0
+asus,Asus VivoBook K15 OLED KM513UA-L713WS ,63990,67.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 1 11IGL05 81VT009UIN ,23690,,Intel,celeron,,2,4.0,4,ddr4,SSD,256.0,11.6, 1366 x 768 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eh2018AU ,55200,60.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fq2626TU ,38900,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+honor,Honor MagicBook X14 ,34990,,Intel,i3,10.0,2,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+samsung,Samsung Galaxy Book2 Pro 13 ,109990,68.0,Intel,i7,12.0,8,16.0,16,lpddr5,SSD,512.0,13.3, 1080 x 1920 ,Windows 11 ,1.0
+dell,Dell Vostro 3510 ,54490,60.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Strix G15 G513RC-HN083W Gaming ,98980,61.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Strix G17 2022 G713RC-HX021W Gaming ,102990,72.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,512.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 X515MA-BR101W ,23999,,Intel,pentium,,4,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 Pro 360 13 ,107990,72.0,Intel,i5,12.0,12,16.0,16,lpddr5,SSD,512.0,13.3, 1080 x 1920 ,Windows 11 ,1.0
+hp,HP 14s-dq3033TU ,26909,,Intel,pentium,,4,8.0,8,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+dell,Dell Inspiron 3511 ,44499,,Intel,i3,11.0,,16.0,16,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Air 2020 Z124J002KD ,126990,,Apple,m1,,8,16.0,16,ddr4,SSD,512.0,13.3, 2560 x 1600 ,Mac ,1.0
+hp,HP 15s- fq4021TU ,55499,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 5 Pro 16ACH6 82L500LXIN Gaming ,79990,62.0,Intel,ryzen,11.0,4,16.0,16,ddr4,SSD,512.0,16.0, 2240 x 1400 ,Windows 11 ,3.0
+hp,HP Omen 16-b0360TX Gaming ,124999,71.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,1024.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3511 ,63300,65.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+hp,HP 15s-dy3501TU ,43250,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus VivoBook K15 OLED K513EA-L312WS ,45490,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 82H801L7IN,37952,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Latitude 5420 ,112000,61.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad Gaming 15ACH6 82K200X6IN Gaming ,58490,66.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15-dk2095TX Gaming ,61290,,Intel,i5,11.0,4,8.0,8,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Pro 16 inch MK193HN ,233894,,Apple,m1,,10,16.0,16,unified,SSD,1024.0,16.2, 3456 x 2234 ,Mac ,1.0
+lenovo,Lenovo IdeaPad 3 14IGL05 81WH001NIN ,25990,,Intel,celeron,4.0,2,4.0,4,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+dell,Dell Latitude 3520 ,74990,61.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,,,Windows 10 ,
+lenovo,Lenovo V15 ITL G2 82KB00EVIN ,31999,,Intel,i3,11.0,2,4.0,4,ddr4,SSD,256.0,15.0, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad 3 CB 14IGL05 82C1002EHA ,18649,,Intel,celeron,4.0,2,4.0,4,lpddr4,SSD,64.0,14.0, 1920 x 1080 ,Chrome ,1.0
+hp,HP Spectre x360 14-ea0541TU ,128500,,Intel,i7,11.0,4,16.0,16,lpddr4x,SSD,1024.0,13.5, 1920 x 1280 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K100MVIN ,58900,66.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+xiaomi,Xiaomi Mi Notebook Ultra ,60498,65.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 3200 x 2000 ,Windows 10 ,1.0
+xiaomi,Xiaomi Mi Notebook Pro 14 ,56490,60.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 2560 x 1600 ,Windows 10 ,1.0
+asus,Asus VivoBook 15 X515EA-BQ312TS ,34994,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad 3 15ITL6 82H800U5IN ,37790,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP 15s- EQ2042AU ,40000,61.0,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 5410 ,45990,65.0,Intel,i3,11.0,4,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+xiaomi,Xiaomi RedmiBook Pro 15 ,53990,68.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 3200 x 2000 ,Windows 10 ,1.0
+asus,Asus ROG Flow X13 GV301QH-K5462TS Gaming ,106490,84.0,AMD,ryzen,5.0,8,16.0,16,lpddr4x,SSD,1024.0,13.4, 3840 x 2400 ,Windows 10 ,1.0
+xiaomi,Xiaomi RedmiBook Pro 15 ,59990,71.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 3200 x 2000 ,Windows 10 ,1.0
+xiaomi,Xiaomi RedmiBook Pro 14 ,48990,63.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 2560 x 1600 ,Windows 10 ,1.0
+acer,Acer Aspire 7 A715-42G NH.QAYSI.001 Gaming ,54990,61.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP 15s-FR2006TU ,44700,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+apple,Apple MacBook Pro 2020 MYD82HN ,110990,,Apple,m1,,8,8.0,8,ddr4,SSD,256.0,,,Mac ,
+dell,Dell Latitude 3410 ,54000,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Ubuntu ,1.0
+asus,Asus X543MA-GQ1020T ,23490,,Intel,pentium,,4,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1366 x 768 ,Windows 10 ,1.0
+microsoft,Microsoft Surface ,99990,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,128.0,15.0, 2496 x 1664 ,Windows 10 ,1.0
+apple,Apple MacBook Pro 2020 ,122990,,Intel,i5,10.0,4,8.0,8,ddr3,SSD,256.0,13.3, 2560 x 1600 ,Mac Mojave ,1.0
+apple,Apple MacBook Air 2020 ,72999,,Intel,i3,10.0,4,8.0,8,lpddr4x,SSD,256.0,13.3, 2560 x 1600 ,Mac 10.15.3	 ,
+huawei,Huawei MateBook D15 ,54999,66.0,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+samsung,Samsung Galaxy Chromebook ,71800,60.0,Intel,i5,10.0,,16.0,16,lpddr3,SSD,1024.0,,,Chrome ,1.0
+samsung,Samsung Galaxy Book Flex Alpha 2-in-1 ,59411,,Intel,i5,10.0,,8.0,8,ddr4,SSD,1024.0,,,Windows 10 ,
+agb,AGB Octev G-0812 ,40000,65.0,Intel,i7,7.0,2,8.0,8,ddr4,Hard Disk,500.0,15.6, 1920 x 1080 ,Windows 10 ,
+lenovo,Lenovo Legion 5 Pro 82RG00ELIN ,159990,75.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+hp,HP Envy x360 15-ew0047TU 2-in-1 ,116000,72.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Pro 16 inch ,249900,,Apple,m2,,12,16.0,16,unified,SSD,512.0,16.2, 3456 x 2234 ,Mac ,1.0
+apple,Apple MacBook Pro 14 inch ,309900,62.0,Apple,m2,,12,32.0,32,unified,SSD,1024.0,14.2, 3024 x 1964 ,Mac ,1.0
+apple,Apple MacBook Pro 14 inch ,249900,,Apple,m2,,12,16.0,16,unified,SSD,1024.0,14.2, 3024 x 1964 ,Mac ,1.0
+msi,MSI Modern 14 C12M-269IN ,45490,61.0,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-du3612TU ,41990,62.0,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+infinix,Infinix INBook X2 Plus XL25 ,47990,,Intel,i5,11.0,4,16.0,16,lpddr4x,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Envy x360 15-ew0040TU ,82990,67.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Envy x360 15-ew0043TU ,90490,65.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5520 Gaming ,79990,75.0,Intel,i5,12.0,12,8.0,8,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Modern 15 B12M ,58490,62.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Modern 14 C12M ,56990,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book 2 Go ,49999,,Qualcomm,qualcomm,3.0,8,4.0,4,lpddr4x,SSD,128.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 15-fa0031dx Gaming ,79888,69.0,Intel,i5,12.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3510 ICC-D585046WIN8 ,32990,,Intel,pentium,,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo E41-55 82FJ00B5IH ,18990,,AMD,athlon,3.0,2,4.0,4,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,DOS,1.0
+lenovo,Lenovo E41-55 82FJ00B5IH ,18990,,AMD,athlon,3.0,2,4.0,4,ddr4,SSD,256.0,14.0, 1366 x 768 ,DOS,1.0
+msi,MSI Stealth GS66 12UGS-290IN Gaming ,288990,,Intel,i7,12.0,14,32.0,32,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,2.0
+dell,Dell Latitude 5320 2-in-1 ,87999,65.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,256.0,13.3, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus VivoBook 15 X515EA-EJ701WS ,56990,61.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 5 A515-57 ,57990,63.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+gigabyte,Gigabyte G5 GE RC55GE ,78490,66.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+gigabyte,Gigabyte G5 KE RC55KE ,99990,74.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+hp,HP Envy x360 13-bf0085TU ,82990,63.0,Intel,i5,12.0,10,8.0,8,lpddr4x,SSD,512.0,13.3, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP 240 G8 689T7PA Business ,34690,,Intel,i3,,,8.0,8,ddr4,SSD,512.0,,,Windows 11 ,
+lenovo,Lenovo V14 82KAA057IH ,31990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3525 D560863WIN9B ,51790,62.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 2022 X1502ZA-EJ515WS ,56990,62.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 G2-ITL 82KBA034IH ,34499,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,DOS,1.0
+hp,HP Victus 16-e0550AX Gaming ,66990,68.0,AMD,ryzen,5.0,8,8.0,8,ddr4,SSD,512.0,16.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fq2670TU ,36999,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Chromebook 311 C733 ,18490,,Intel,celeron,,2,4.0,4,ddr4,Hard Disk,32.0,11.6, 1366 x 768 ,Chrome ,
+dell,Dell Latitude 7420 ,113100,,Intel,i7,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,3.0
+hp,HP ProBook 445 G7 ,49999,68.0,AMD,ryzen,4.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5521 D560899WIN9S Gaming ,180990,72.0,Intel,i9,12.0,14,16.0,16,lpddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 5 82SE005SIN ,62600,65.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 FA506IHRZ-HN112W ,65990,68.0,AMD,ryzen,4.0,6,8.0,8,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 14 OLED X1405ZA-KM311WS ,51990,,Intel,i3,12.0,6,8.0,8,lpddr4,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 OLED X1505ZA-L1311WS ,49990,,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 15IAU7 82RK0090IN ,63590,60.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 2880 x 1800 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82RJ005CIN ,59990,,Intel,i5,12.0,10,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Flex 5 82R90068IN ,78990,75.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP 14s-fq0567AU ,34490,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Omen 16-k0360TX ,144480,82.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkPad E14 21E3S04W00 ,74490,,Intel,i5,12.0,10,16.0,16,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Envy x360 13-bf0062TU ,104990,68.0,Intel,i7,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.3, 2880 x 1800 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K101EDIN ,69500,68.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15IAH7 82S900KQIN ,89990,74.0,Intel,i5,12.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 82C3001VSP ,21999,,Intel,celeron,,2,4.0,4,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion x360 14-ek0072TU ,79000,67.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Elitebook 840 G8 4S1H5PA ,138800,65.0,Intel,i7,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,2.0
+acer,Acer Predator Helios 300 PH315-55s Spatial Labs Edition Gaming ,319999,84.0,Intel,i9,12.0,14,32.0,32,ddr5,SSD,2048.0,15.6, 3840 x 2160 ,Windows 11 ,1.0
+msi,MSI GF63 Thin 10SC-848IN Gaming ,60800,69.0,Intel,i5,10.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+honor,Honor MagicBook 15 WDQ9CHNE ,39990,,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Omen 17-ck1022TX Gaming ,206500,76.0,Intel,i7,12.0,,32.0,32,ddr5,SSD,1024.0,16.1, 2560 x 1440 ,Windows 11 ,1.0
+lenovo,Lenovo Yoga Slim 7 Pro 82SV0053IN ,103957,63.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+lenovo,Lenovo Yoga 6 82UD0068IN 2-in-1 ,80030,63.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,3.0
+asus,Asus VivoBook 14 2022 X1402ZA-EK521WS ,56990,63.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Flex 5 82R700ASIN ,59999,62.0,Intel,i3,12.0,6,8.0,8,lpddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+avita,Avita Pura E NS14A6 ,29990,,Intel,i3,10.0,2,8.0,8,ram,SSD,256.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo V15 G2-ITL Business ,48999,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3400 ,36990,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Gaming Katana GF66 12UE-1002IN ,125121,78.0,Intel,i7,12.0,14,16.0,16,ram,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Katana GF66 12UC-636IN Gaming ,82500,67.0,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+msi,MSI Katana GF66 12UE-1001IN Gaming ,94355,71.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+lenovo,Lenovo V14-IGL ‎82C2S02K00 ,21999,,Intel,celeron,,2,4.0,4,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 255 G8 6V2R7PA ,24650,,AMD,athlon,3.0,2,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1366 x 768 ,DOS,1.0
+asus,Asus ROG Flow X13 GV301RC-LJ073WS Gaming ,151990,81.0,AMD,ryzen,6.0,8,32.0,32,lpddr5,SSD,1024.0,13.4, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP Victus 15-fb0052AX Gaming ,78650,74.0,AMD,ryzen,5.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Flex 5 14IAU7 82R7006EIN ,60990,61.0,Intel,i3,12.0,6,8.0,8,lpddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 5 82JU00SYIN ,129994,79.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 5 82LN00JSIN ,62829,68.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Raider GE77HX 12UHS-205IN Gaming ,349990,86.0,Intel,i9,12.0,,32.0,32,ddr5,SSD,2048.0,17.3, 3840 x 2160 ,Windows 11 ,2.0
+lenovo,Lenovo Legion 5 Pro 16IAH7H 82RF00MGIN Gaming ,167990,81.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+asus,Asus VivoBook K15 OLED K513EA-L503WS ,67000,66.0,Intel,i5,11.0,4,16.0,16,ddr4,Hard Disk,1024.0,,,Windows 11 ,
+lenovo,Lenovo IdeaPad Slim 5 82SF004XIN ,82990,67.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 G2 82KDA00UIH ,31500,,AMD,ryzen,5.0,4,4.0,4,ddr4,SSD,512.0,15.6, 1920 x 1080 ,DOS,1.0
+asus,Asus EeeBook E410KA-BV101WS ,28990,,Intel,pentium,,4,8.0,8,ddr4,SSD,256.0,14.1, 1366 x 768 ,Windows 11 ,1.0
+hp,HP Victus 15-fb0053AX Gaming ,83099,71.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Strix Scar 17 SE G733CX-LL013WS Gaming ,359990,86.0,Intel,i9,12.0,,32.0,32,ddr5,SSD,2048.0,17.3, 2560 x 1440 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 2022 X1502ZA-EZ511WS ,64980,66.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Nitro 5 AN515-58 Gaming ,82990,72.0,Intel,i5,12.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Nitro AN515-57 UN.QEHSI.003 Gaming ,62990,67.0,Intel,i5,11.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Zenbook Flip 14 OLED UP5401ZA-KN711WS ,120000,78.0,Intel,i7,12.0,14,16.0,16,lpddr5,SSD,1024.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus ProArt StudioBook Pro 16 OLED H7600ZW-L911W ,249990,,Intel,i9,12.0,14,32.0,32,ddr5,SSD,1024.0,16.0, 3840 x 2400 ,Windows 11 ,1.0
+hp,HP Envy x360 13-bf0059TU ,104990,68.0,Intel,i7,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.3, 2880 x 1800 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K201Y8IN ,73590,72.0,AMD,ryzen,5.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ZenBook Pro Duo 14 OLED UX8402ZE-LM921WS ,179990,85.0,Intel,i9,12.0,14,32.0,32,lpddr5,SSD,1024.0,14.5, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 2022 FA577RM-HF031WS Gaming ,120990,81.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 15-fa0353TX ,90990,63.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K201YCIN ,66489,71.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15IAH7 82S900RAIN ,89990,74.0,Intel,i5,12.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82RK00EDIN ,62390,,Intel,i5,12.0,10,8.0,8,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Alienware X17 R2 D569943WIN9 Gaming ,300490,,Intel,i7,12.0,14,32.0,32,lpddr5,SSD,1024.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+panasonic,Panasonic Toughbook 40 ,374990,72.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,,,Windows 11 ,
+hp,HP Victus 15-fb0050AX Gaming ,54750,72.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-eq1561AU ,29997,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 2022 X1502ZA-EJ302WS ,40990,,Intel,i3,12.0,10,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 7 A715-42G UN.QAYSI.006 Gaming ,58990,68.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ511WS ,72990,63.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+dell,Dell Vostro 5625 laptop,72500,61.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+fujitsu,Fujitsu CH FPC02548LK ,59990,62.0,Intel,i5,11.0,4,16.0,16,lpddr4x,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Gaming 3 82K201UKIN ,71990,67.0,AMD,ryzen,5.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K1019AIN ,64990,72.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+hp,HP Victus 15-fa0073TX ,89990,61.0,Intel,i7,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3525 ,57990,67.0,AMD,ryzen,5.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3425 ,52290,67.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 5 NX.K6SSI.002 ,40990,,Intel,i3,12.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15ACH6 82K201UXIN ,109990,76.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Zephyrus Duo 16 2022 GX650RXZ-LB226WS Gaming ,396990,,AMD,ryzen,6.0,8,32.0,32,ddr5,SSD,2048.0,16.0, 3840 x 2400 ,Windows 11 ,1.0
+asus,Asus ROG Flow X16 2022 GV601RM-M6054WS Gaming ,171990,82.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+hp,HP Pavilion x360 14-ek0092TU ,83999,61.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 7620 ,87500,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP Pavilion x360 14-ek0078TU ,72990,60.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Zenbook Flip 14 OLED UP5401ZA-KN501WS ,89299,65.0,Intel,i5,12.0,12,16.0,16,lpddr5,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus Zenbook Flip 14 OLED UP5401ZA-KN701WS ,134990,75.0,Intel,i7,12.0,14,16.0,16,lpddr5,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus Vivobook Flip 14 TP3402ZA-LZ511WS ,79990,71.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K101EEIN ,64990,63.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook Ultra X415JA-EB531WS ,49490,61.0,Intel,i5,10.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14s-fy1005AU ,61499,62.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14s- fy1003AU ,50499,61.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 5620 ,69160,,Intel,i5,12.0,12,8.0,8,ddr4,SSD,512.0,16.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 16-E0301Ax Gaming ,66490,72.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Alienware x14 Gaming ,169990,76.0,Intel,i7,12.0,14,16.0,16,lpddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lg,LG Gram 14 14Z90Q-G.AH75A2 ,93490,71.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,512.0,14.0, 1200 x 1920 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 FA506ICB-HN075W ,77990,68.0,AMD,ryzen,4.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1080 x 1920 ,Windows 11 ,1.0
+lg,LG Gram 17Z90Q-G.AH78A2 ,119990,74.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,1024.0,17.0, 1600 x 2560 ,Windows 11 ,1.0
+dell,Dell G15-5525 Gaming ,74990,65.0,AMD,ryzen,6.0,6,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows ,1.0
+hp,HP Spectre x360 13-ef0053TU ,128249,74.0,Intel,i7,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.5, 3000 x 2000 ,Windows 11 ,1.0
+hp,HP Victus 16-e1060AX Gaming ,99990,78.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Nitro 5 AN515-57 UN.QEHSI.004 ,62999,74.0,Intel,i5,11.0,6,8.0,8,ddr4,Hard Disk,1024.0,,,Windows 11 ,
+acer,Acer TravelMate TMP214-53 ,45990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer TravelMate TMP214-53 ,51990,63.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K101B7IN ,68990,72.0,Intel,i5,11.0,4,16.0,16,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+acer,Acer Nitro 5 AN515-45 NH.QBCSI.00F Gaming ,99990,79.0,AMD,ryzen,5.0,6,16.0,16,ddr4,Hard Disk,1024.0,15.6, 2560 x 1440 ,Windows 11 ,
+asus,Asus Vivobook S15 OLED S3502ZA-L702WS ,85500,63.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 7620 ,88490,61.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1200 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkBook 15 21A4A09SIH ,39500,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Dash F15 2022 FX517ZC-HN107WS Gaming ,91500,68.0,Intel,i7,12.0,10,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Dash F15 2022 FX517ZR-HQ030WS Gaming ,149400,74.0,Intel,i7,12.0,10,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+acer,Acer Aspire 5 A515-56 UN.A1ESI.022,46990,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+infinix,Infinix INBook X1 Slim XL21 ,37990,,Intel,i5,10.0,4,8.0,8,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming F15 FX507ZM-HF068WS ,118990,76.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell XPS 15 9520 ,245000,,Intel,i7,12.0,14,32.0,32,ddr5,SSD,1024.0,15.6, 3840 x 2160 ,Windows 11 ,1.0
+dell,Dell Vostro 3515 ,38890,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A17 FA777RC-HX027WS ,88990,67.0,AMD,ryzen,6.0,8,16.0,16,ddr4,SSD,512.0,17.3, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus Vivobook 15 Touch X515EA-EZ501WS ,51990,62.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkBook 15 21A4A09RIH ,53990,66.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Sword 15 A12UC-467IN Gaming ,90256,67.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+msi,MSI Thin GF63 11UC-851IN Gaming ,64250,71.0,Intel,i5,11.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,2.0
+apple,Apple MacBook Pro 2022 ,116990,,Apple,m2,,8,8.0,8,ram,SSD,256.0,13.3, 2560 x 1600 ,Mac ,1.0
+acer,Acer Predator Helios 300 NH.QC2SI.00B ,119409,78.0,Intel,i9,11.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+hp,HP Envy x360 13-ay1059AU ,77990,65.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15s-FQ5009TU ,60700,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 15 ,69990,,Intel,i5,12.0,10,16.0,16,lpddr4x,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus X515EA-BQ522WS ,53500,61.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Strix G15 G513RM-HQ271WS Gaming ,124990,82.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 81Y401ARIN Gaming ,63990,67.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus Vivobook S15 OLED K3502ZA-L701WS ,84700,71.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Zenbook 14X OLED Space Edition UX5401ZAS-KN901WS ,159990,78.0,Intel,i9,12.0,14,32.0,32,lpddr5,SSD,1024.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+asus,Asus TUF Gaming A15 FA506IC-HN075W ,86890,,AMD,ryzen,4.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1080 x 1920 ,Windows 11 ,1.0
+fujitsu,Fujitsu CH 4ZR1H03553 ,54990,63.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5511 Gaming ,67990,67.0,Intel,i5,11.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14-EC1019AU ,63990,60.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 X415JA-EB501WS ,41990,,Intel,i5,10.0,4,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14-EC1008AU ,77200,,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-du3519TX ,59490,62.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus BR1100FKA-BP1104W ,29250,,Intel,celeron,,2,4.0,4,ddr4,SSD,128.0,11.6, 1366 x 768 ,Windows 11 ,1.0
+acer,Acer Nitro AN515-57 NH.QEHSI.001 Gaming ,57513,65.0,Intel,i5,11.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X515JA-BQ511WS ,41999,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP Elitebook 830 G6 ,165999,74.0,Intel,i7,8.0,4,16.0,16,ddr4,SSD,1024.0,13.3, 1920 x 1080 ,Windows 10 ,
+dell,Dell Latitude 3420 ,80100,63.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,,,Windows 10 ,
+lenovo,Lenovo IdeaPad Flex 5 14ITL05 82HS00W6IN ,58490,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming F15 FX577ZE-HN056W ,98400,74.0,Intel,i7,12.0,8,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3510 ,43990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eh2024AU ,62510,,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 82K200X3IN ,73990,68.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5515 Gaming ,71990,66.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 M415DA-EB512WS ,47990,62.0,AMD,ryzen,,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 15ITL05 81X800J3IN ,39990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus M515DA-BQ512WS ,46520,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus M515DA-BR322WS ,32890,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming F15 FX506LH-HN258WS Gaming ,58000,66.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 240 G8 ,60618,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+asus,Asus E410KA-BV001W ,23699,,Intel,celeron,,2,4.0,4,ram,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 15ITL6 82H802FJIN ,41279,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus TUF Gaming F15 FX506LH-HN310W ,63990,,Intel,i5,10.0,4,8.0,8,ram,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s-dq2606tu ,45600,60.0,Intel,i3,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad 3 81WB018YIN ,31990,,Intel,i3,10.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus X415EA-EB502WS ,45990,,Intel,i5,,4,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 250 G8 5T9P8PA ,41999,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 360 13 ,94990,67.0,Intel,i5,12.0,10,16.0,16,ram,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 Pro 13 ,93990,69.0,Intel,i5,12.0,12,16.0,16,lpddr5,SSD,512.0,13.3, 1080 x 1920 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 360 13 ,103990,68.0,Intel,i7,12.0,8,16.0,16,ram,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+samsung,Samsung Galaxy Book2 Pro 15 ,119990,69.0,Intel,i7,12.0,8,16.0,16,lpddr5,SSD,512.0,15.6, 1080 x 1920 ,Windows 11 ,1.0
+asus,Asus ROG Strix G15 2022 G513RC-HN084WS Gaming ,107990,75.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook K15 OLED KM513UA-L511WS ,58990,61.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3510 ,42490,61.0,Intel,i3,10.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+asus,Asus EeeBook E210MA-GJ012W ,18990,,Intel,celeron,,2,4.0,4,ddr4,Hard Disk,,,,Windows 11 ,
+lenovo,Lenovo IdeaPad Flex 5 82HS018XIN ,85500,66.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ZenBook Duo 14 2021 UX482EGR-KA711WS ,89990,63.0,Intel,i7,11.0,4,16.0,16,lpddr4x,SSD,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 5 15ITL05 82FG01B5IN ,58990,68.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fq4022TU ,51890,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook Ultra K14 K413EA-EB311WS ,39490,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,512.0,14.1, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 15s-fr2508TU ,42250,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 14s- dq3032tu ,25400,,Intel,celeron,,2,8.0,8,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+dell,Dell Inspiron 3511 ,57299,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Stealth GS66 12UGS-042IN Gaming ,275990,79.0,Intel,i7,12.0,14,32.0,32,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,2.0
+msi,MSI Delta 15 A5EFK-083IN Gaming ,129990,75.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook Flip TP470EA-EC511WS ,63600,,Intel,i5,11.0,4,8.0,8,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 245 G8 62G69PA ,27949,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+hp,HP Pavilion 15-eg0547TU ,59999,63.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 3511 ,58490,,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+realme,Realme Book Enhanced Air ,54990,,Intel,i5,11.0,4,16.0,16,ram,SSD,512.0,,,Windows 11 ,
+lenovo,Lenovo IdeaPad 3 82H801LGIN,37490,,Intel,i3,11.0,,8.0,8,ddr4,SSD,256.0,,,Windows 11 ,2.0
+lenovo,Lenovo Ideapad Slim 3i 82H802FAIN ,36990,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows ,1.0
+hp,HP x2 11-da0017QU Chromebook,39999,,Qualcomm,qualcomm,,8,8.0,8,lpddr4x,Hard Disk,,,,Chrome ,
+hp,HP 15s-du3517TU ,60000,60.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Slim 3 82H801LJIN Notebook,40490,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3405 ,36400,,AMD,ryzen,3.0,2,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 11 ,
+asus,Asus VivoBook 15 X515MA-BR001W ,25780,,Intel,celeron,,2,4.0,4,ram,Hard Disk,1024.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+dell,Dell Latitude 7410 ,77499,60.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 3511 ,41490,,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,,,Windows ,
+hp,HP Pavilion 15-eg1001TU ,60990,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 15-EC2145AX Gaming ,70527,63.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 15IML05 81WB0190IN ,53100,63.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 15 OLED M3500QC-L1262TS ,86490,66.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo Ideapad Gaming 3 82K200X2IN ,72990,65.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus CX1101CMA-GJ0007 Chromebook,18990,,Intel,celeron,,2,4.0,4,lpddr4,Hard Disk,64.0,11.6, 1366 x 768 ,Chrome ,1.0
+asus,Asus Vivobook Pro 15 OLED K3500PC-L1037TS ,113935,65.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad 3 14ACL6 82KT00GLIN ,50990,65.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3515 ,52990,61.0,AMD,ryzen,3.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+asus,Asus VivoBook 15 2021 X515JA-EJ362WS ,32990,,Intel,i3,10.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows ,1.0
+lenovo,Lenovo V15 ‎82C70005UK ,38490,60.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 2021 X515JA-EJ562WS ,49990,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+microsoft,Microsoft Surface Go 3 8VA-00013 ,53600,,Intel,pentium,,2,8.0,8,lpddr3,SSD,128.0,10.5, 1920 x 1280 ,Windows 11 ,1.0
+hp,HP 15s-du3563TU ,40890,,Intel,i3,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 5 15ACH6 82JW00KEIN Gaming ,78500,68.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+apple,Apple MacBook Pro 14 inch MKGQ3HN ,213894,,Apple,m1,,10,16.0,16,unified,SSD,1024.0,14.2, 3024 x 1964 ,Mac ,1.0
+lenovo,Lenovo V15 82KBA002IH ,31500,,Intel,i3,11.0,2,4.0,4,ddr4,SSD,256.0,15.0, 1920 x 1080 ,DOS,1.0
+lenovo,Lenovo V15 82C30052IH ,21999,,Intel,celeron,,2,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,DOS,1.0
+lenovo,Lenovo ThinkPad X1 Carbon 20XWS03T00 ,213900,61.0,Intel,i7,11.0,4,16.0,16,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Latitude 3420 ,88000,,Intel,i7,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 3511 ,55990,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo V15 82C700KAIH ,39527,,AMD,ryzen,3.0,4,8.0,8,ddr4,Hard Disk,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+avita,Avita Pura NS14A6ING541 ,23990,,AMD,apu,,2,8.0,8,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 10 ,0.5
+avita,Avita Pura NS14A6ING431 ,17990,,AMD,apu,,2,4.0,4,ddr4,SSD,128.0,14.0, 1366 x 768 ,Windows 10 ,2.0
+lenovo,Lenovo Legion 5 Pro 16ITH6H 82JD005KIN Gaming ,128900,63.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,1024.0,16.0, 2560 x 1440 ,Windows 11 ,1.0
+nokia,Nokia PureBook S14 NKi511TL85S ,47990,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.1, 1920 x 1080 ,Windows ,1.0
+dell,Dell Inspiron 3515 ,43699,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell G15-5511 Gaming ,92000,73.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus M515DA-BQ322TS ,37500,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 3511 ,41350,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 3511 ,48494,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+msi,MSI GF63 Thin 10UC-607IN Gaming ,59990,62.0,Intel,i5,10.0,,8.0,8,ddr4,SSD,512.0,,,Windows 10 ,2.0
+lenovo,Lenovo IdeaPad 3 CB 11IGL05 82BA001PHA ,16890,,Intel,celeron,,2,4.0,4,lpddr4,Hard Disk,,,,Chrome ,1.0
+lenovo,Lenovo ThinkPad T14 2021 20W0S03D00 ,148000,60.0,Intel,i7,11.0,4,16.0,16,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 15IHU6 82K1004DIN ,78990,66.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP 240 G8 4J0K2PA ,33990,,Intel,i3,11.0,2,8.0,8,ram,Hard Disk,1024.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 81Y401APIN Gaming ,61990,67.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP Pavilion 15-ec1023AX Gaming ,62990,73.0,AMD,ryzen,4.0,6,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+hp,HP Pavilion 15-eh1103AU ,66400,63.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP Omen 15-ek1016TX Gaming ,154990,79.0,Intel,i7,10.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Vostro 3400 ,40289,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Vostro 3400 ,58000,68.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 10 ,
+asus,Asus ROG Strix G15 2021 G513IH-HN086T Gaming ,75490,69.0,AMD,ryzen,4.0,8,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo Tab Yoga Duet 7,81855,,Intel,i5,11.0,4,8.0,8,ram,SSD,512.0,13.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Vostro 5415 ,54990,67.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 5418 ,69890,68.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 5518 ,69990,73.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus TUF Dash F15 FX516PE-HN086TS Gaming ,84990,73.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP 15-ec1025AX Gaming ,56700,71.0,AMD,ryzen,4.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 5410 ,96890,73.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP 250 G8 42V68PA ,36599,,Intel,i3,11.0,2,8.0,8,ram,SSD,512.0,15.6, 1366 x 768 ,Windows 10 ,1.0
+lenovo,Lenovo IdeaPad Gaming 3 81Y4017UIN Gaming ,62990,67.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+msi,MSI GF63 Thin 10SCXR-1617IN Gaming ,63990,74.0,Intel,i7,10.0,6,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+dell,Dell Inspiron 3501 ,42990,,Intel,i3,11.0,,8.0,8,ddr4,Hard Disk,1024.0,,,Windows 10 ,
+asus,Asus TUF Gaming F15 FX506LH-HN258T ,65800,68.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 3501 ,45990,,Intel,i3,11.0,2,4.0,4,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus VivoBook 15 X515EA-EJ317TS ,63800,60.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Latitude 5310 ,72000,,Intel,i5,10.0,4,8.0,8,ram,SSD,512.0,13.3, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP 14s-fq1029AU ,46900,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+acer,Acer Nitro 5 AN515-45-R3TC NH.QBCSI.001 Gaming ,91490,62.0,AMD,ryzen,5.0,6,16.0,16,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+hp,HP 14s-dy2500TU ,39999,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Vostro 3405 ,30490,,AMD,athlon,,2,4.0,4,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+lenovo,Lenovo Ideapad Slim 3i 81WQ003LIN ,26990,,Intel,celeron,,2,4.0,4,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 10 ,1.0
+hp,HP 15s-du3060TX ,53994,61.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+vaio,Vaio E Series NE15V2IN027P ,38499,60.0,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,2.0
+hp,HP 15s-GR0011AU ,37550,,AMD,ryzen,3.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo Yoga Slim 7i Pro ,58700,,Intel,i7,11.0,4,8.0,8,ram,SSD,256.0,14.0, 2240 x 1400 ,Windows 10 ,1.0
+samsung,Samsung Galaxy Chromebook 2 ,39999,,Intel,celeron,5.0,2,4.0,4,ram,Hard Disk,64.0,13.3, 1920 x 1080 ,Chrome ,
+dell,Dell Vostro 3405 ,49690,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,
+acer,Acer Aspire 3 A315-23 ,42350,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1366 x 768 ,Windows 10 ,1.0
+dell,Dell Inspiron 5406 ,71500,65.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 5502 ,68999,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,
+dell,Dell Inspiron 3501 ,38000,,Intel,i3,10.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus X543MA-GQ1015T ,22490,,Intel,celeron,,2,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1366 x 768 ,Windows 10 ,1.0
+dell,Dell Inspiron 3505 ,39880,60.0,AMD,ryzen,3.0,2,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+lg,LG Gram 15Z90N ,55990,62.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,3.0
+dell,Dell Latitude 3510 ,44700,,Intel,i3,10.0,2,4.0,4,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,Ubuntu ,1.0
+dell,Dell Vostro 3401 ,33990,,Intel,i3,10.0,2,4.0,4,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+dell,Dell G5 5505 Gaming ,79680,75.0,AMD,ryzen,4.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Inspiron 3505 ,49990,61.0,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus ExpertBook P2451F ,62999,63.0,Intel,i7,10.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1080 x 1920 ,Windows 10 ,
+hp,HP 14-ck2018TU ,53900,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+dell,Dell Inspiron 3593 ,36990,,Intel,i3,10.0,2,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo ThinkBook 14 IML 20RV00DJIH ,79000,66.0,Intel,i5,10.0,4,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+microsoft,Microsoft Surface Pro X 1876 Ultrabook,117998,,Microsost,microsoft,,,8.0,8,lpddr4x,SSD,128.0,,,Windows 10 ,
+avita,Avita Pura NS14A6 ,38999,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+samsung,Samsung Galaxy Book S,83999,,Intel,lakefield,,,8.0,8,lpddr4x,Hard Disk,256.0,,,Windows 10 ,
+apple,Apple MacBook Air 2020 ,109999,,Intel,i7,10.0,4,8.0,8,lpddr4x,SSD,512.0,13.3, 2560 x 1600 ,Mac 10.15.3	 ,
+dell,Dell Inspiron 3493 ,57150,,Intel,i5,10.0,4,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP Elite Dragonfly G2 ,149999,,Intel,i7,10.0,,16.0,16,ram,SSD,1024.0,,,Windows 10 ,1.0
+lenovo,Lenovo Yoga 5G ,108999,,Qualcomm,qualcomm,,4,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Latitude 9510 ,149000,,Qualcomm,qualcomm,10.0,4,8.0,8,lpddr3,SSD,512.0,15.0, 1920 x 1080 ,Windows 10 ,
+honor,Honor MagicBook Pro 16 ,54999,,Intel,i5,8.0,4,8.0,8,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 10 ,
+asus,Asus VivoBook 15 X512FB ,34990,61.0,Intel,i3,8.0,4,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+asus,Asus ROG Mothership GZ700GX Gaming ,349999,,Intel,i9,8.0,6,64.0,64,ddr4,SSD,512.0,17.3, 1920 x 1080 ,Windows 10 ,
+dell,Dell G5 15 5590 Gaming ,84999,78.0,Intel,i7,8.0,6,16.0,16,ddr4,Hard Disk,1024.0,15.6, 3480 x 2160 ,Windows 10 ,
+razer,Razer Blade 15 Gaming ,127999,81.0,Intel,i7,8.0,6,16.0,16,ddr4,Hard Disk,2048.0,15.6, 1920 x 1080 ,Windows 10 ,
+dell,Dell Inspiron 5480 laptop,56990,65.0,Intel,i5,8.0,4,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+apple,Apple MacBook Pro 2018 13-inch Touch Bar ,199900,,Intel,,,4,8.0,8,ddr3,SSD,512.0,13.3, 1600 x 2560 ,Mac High Sierra ,1.0
+apple,Apple MacBook Pro 2018 13-inch ,165900,,Intel,,,2,8.0,8,ddr3,SSD,256.0,13.3, 1600 x 2560 ,Mac High Sierra ,1.0
+microsoft,Microsoft Surface Pro 3 12.0 Tablet,58990,,Intel,i3,4.0,2,4.0,4,ddr3,SSD,128.0,12.0, 2160 x 1440 ,Windows 10 ,
+hp,HP 245 G8 ,25999,,AMD,athlon,3.0,2,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+hp,HP 15s-eq2146AU ,40490,,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 ITL 82KBA03JIH ,33990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X1500EA-EJ3381WS ,39400,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook Pro 16X OLED N7601ZM-MQ711WS Gaming ,169990,86.0,Intel,i7,12.0,10,16.0,16,ddr5,SSD,1024.0,16.0, 3840 x 2400 ,Windows 11 ,1.0
+hp,HP Victus 16-d0310TX Gaming ,77283,72.0,Intel,i5,11.0,6,8.0,8,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 15-fb0777AX Gaming ,70816,68.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 16-d0311TX Gaming ,80612,74.0,Intel,i5,11.0,6,16.0,16,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Victus 16-e0333TX Gaming ,99814,73.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Katana GF66 12UD Gaming ,105000,76.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+msi,MSI Pulse GL66 12UGSZOK Gaming ,209000,80.0,Intel,i9,12.0,14,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,2.0
+hp,HP ProBook 445 G8 ,73999,72.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+hp,HP Pavilion Plus 14-eh0037TU ,85490,71.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 7i 82TD009KIN Gaming ,359990,,Intel,i9,12.0,,32.0,32,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+dell,Dell Inspiron 3511 D560783WIN9BD ,45990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.56, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3425 D552308WIN9B ,50852,61.0,AMD,ryzen,5.0,4,8.0,8,ddr4,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 5420 ICC-C782537WIN8 ,91958,68.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3520 ,61050,61.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3420 ,69900,61.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 3520 2022 ,72990,67.0,Intel,i5,12.0,10,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+hp,HP Pavilion 14-ec1005AU ,59990,61.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14-ec1005AU ,75990,63.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Envy x360 13-ay1064AU 2-in-1 ,98000,72.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3520 ,60070,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3420 ,57990,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3525 ,55530,62.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Zephyrus G15 GA503RSZ-HQ061WS Gaming ,211990,85.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+lenovo,Lenovo Thinkpad P15v 21AAS05L00 ,159999,79.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 240 G8 4K5D5PA Business ,35000,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,DOS,1.0
+lenovo,Lenovo IdeaPad Flex 5 14ALC7 82R9006PIN ,72690,69.0,AMD,ryzen,5.0,6,16.0,16,lpddr4x,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+lenovo,Lenovo V14 Gen 2 ‎82C40019IX ,49999,,Intel,i5,11.0,4,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 14 OLED UX3402ZA-KN531WS ,95990,69.0,Intel,i5,12.0,12,16.0,16,lpddr5,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+ultimus,Ultimus S151 NU14U2INC43VD-CS ,17990,,Intel,celeron,,2,4.0,4,ddr4,SSD,128.0,14.1, 1920 x 1080 ,DOS,1.0
+ultimus,Ultimus S152 NU15U2INC44VN-SG ,23990,,Intel,celeron,,2,4.0,4,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Legion S7 82TF007LIN Gaming ,149990,84.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+hp,HP Envy x360 13-AY1065AU ,61500,65.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Latitude 14 7420 ,98280,,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,3.0
+lenovo,Lenovo IdeaPad Slim 3 82H802XXIN ,58018,63.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 7420 D560918WIN9S ,76519,67.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkPad X13 21BNS03K00 ,200000,71.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,512.0,13.3, 1920 x 1200 ,Windows 11 ,3.0
+acer,Acer Nitro 5 AN515-45 UN.QBMSI.009 Gaming ,63990,71.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP ZBook Firefly G8 500P0PA Business ,93000,71.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,3.0
+hp,HP 240 G8 Business ,34490,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkPad T14 20W0S1HU00 ,140200,69.0,Intel,i7,11.0,4,16.0,16,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Pavilion 14-ek0084TU ,71020,60.0,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Eeebook 14 E410KA-BV092W ,24850,,Intel,celeron,,2,4.0,4,ram,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkPad E14 G3 20Y700B5IG ,78500,68.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 3 82H802XVIN ,37990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Chromebook Enterprise Spin 513 R841LT-S6DJ ,47990,,Qualcomm,qualcomm,2.0,8,4.0,4,lpddr4x,Hard Disk,128.0,13.3, 1920 x 1080 ,Chrome ,1.0
+dell,Dell Inspiron 3520 D560878WIN9S ,65390,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 14 OLED UX3402ZA-KN731WS ,108990,69.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Slim 3 81WB01FYIN ,33990,,Intel,i3,10.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+asus,Asus TUF Gaming F15 FX506LHB-HN358W Gaming ,54990,63.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Stealth 17M A12UE Gaming ,149990,73.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,1024.0,17.3, 1920 x 1080 ,Windows 11 ,2.0
+msi,MSI Modern 15 A5M-055IN ,57990,,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo Thinkpad E14 Gen 2 20TAS0E800 ,77500,67.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1080 x 1920 ,Windows 10 ,1.0
+lenovo,Lenovo ‎ThinkPad E14 Gen 4 ,74500,,Intel,i5,12.0,10,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Alienware X17 R1 D569936WIN9 Gaming ,312199,79.0,Intel,i9,11.0,8,32.0,32,ddr4,SSD,1024.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 82KBA02UIH ,36990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+microsoft,Microsoft Surface Pro 9 ‎QCB-00014 ,95449,,Intel,i5,12.0,10,8.0,8,lpddr5,SSD,128.0,13.0, 2880 x 1920 ,Windows 11 ,1.0
+microsoft,Microsoft Surface ,178999,,Intel,i7,12.0,10,8.0,8,ram,SSD,256.0,13.5, 2256 x 1504 ,Windows 11 ,1.0
+microsoft,Microsoft Surface ,182990,63.0,Intel,i7,12.0,10,16.0,16,ram,SSD,512.0,15.0, 2496 x 1664 ,Windows 11 ,1.0
+microsoft,Microsoft Surface ,139999,,Intel,i7,12.0,10,8.0,8,ram,SSD,256.0,15.0, 2496 x 1664 ,Windows 11 ,1.0
+microsoft,Microsoft Surface Pro 9 ‎‎QIX-00031 ,192990,,Intel,i7,12.0,10,16.0,16,lpddr5,SSD,512.0,13.0, 2880 x 1920 ,Windows 11 ,1.0
+microsoft,Microsoft Surface Pro 9 ‎QIL-00031 ,167999,,Intel,i7,12.0,10,16.0,16,lpddr5,SSD,256.0,13.0, 2880 x 1920 ,Windows 11 ,1.0
+dell,Dell Inspiron 14 5415 ,55999,61.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Extensa EX215-31 ,24990,,Intel,pentium,,4,8.0,8,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Slim 3 81WE01QSIN ,29990,,Intel,i3,10.0,2,4.0,4,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus Vivobook 15 K513EA-L703WS ,67999,,Intel,i7,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+acer,Acer Aspire 3 A315-58 ,49999,60.0,Intel,i5,11.0,4,12.0,12,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkBook 14s Yoga 20WEA01CIN ,104900,73.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+acer,Acer Swift 3 SF314-43 ,61500,65.0,AMD,ryzen,5.0,6,8.0,8,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Inspiron 5415 ,89976,62.0,AMD,ryzen,5.0,8,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell XPS 9315 ,185800,,Intel,i7,12.0,10,16.0,16,lpddr5,SSD,1024.0,13.4, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 14 X415MA-BV102WS ,27990,,Intel,pentium,,4,8.0,8,ddr4,SSD,256.0,14.1, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 2022 X515JA-EJ592WS ,44990,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5520 D560895WIN9S ,123990,80.0,Intel,i7,12.0,10,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer One 14 Z2-493 UN.431SI.129 ,39999,,AMD,ryzen,3.0,2,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X515JA-EJ392WS ,33690,,Intel,i3,10.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 82C3002VGE ,23999,,Intel,celeron,,2,4.0,4,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Thinkpad T15P Gen 2  ,245000,74.0,Intel,i7,11.0,8,32.0,32,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell Vostro 3425 D552267WIN9S ,61088,63.0,AMD,ryzen,5.0,6,16.0,16,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5525 D560898WIN9S Gaming ,158990,76.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5525 Gaming ,146990,76.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell G15-5525 D560894WIN9S Gaming ,127990,78.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 5 A515-57 Gaming ,47990,,Intel,i3,12.0,6,8.0,8,ram,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Aspire 3 A315-58 NX.ADDSI.011 ,37990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkPad X1 Carbon 21CB002JIG ,211990,,Intel,i7,12.0,10,16.0,16,ram,SSD,1024.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+asus,Asus Vivobook 14 OLED X1405ZA-KM511WS ,69990,61.0,Intel,i5,12.0,10,16.0,16,lpddr4,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+dell,Dell Alienware M15 R6 Gaming ,200000,79.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 5 82B500EEIN Gaming ,141000,78.0,AMD,ryzen,4.0,8,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 10 ,
+lenovo,Lenovo IdeaPad Gaming 3 82K101E1IN ,55000,62.0,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+lenovo,Lenovo Thinkbook 15 21DJA04PIH ,91490,63.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V15 82C500XHIH ,47115,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,
+agb,AGB Octev VR-1818 Gaming ,70000,66.0,Intel,i7,11.0,4,32.0,32,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+dell,Dell XPS 13 Plus ,195190,74.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,1024.0,13.4, 3840 x 2400 ,Windows 11 ,1.0
+asus,Asus E410KA-BV002W ,24500,,Intel,celeron,,2,4.0,4,ram,SSD,256.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell XPS 9315 ,133500,,Intel,i5,12.0,10,16.0,16,lpddr5,SSD,512.0,13.4, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Creator Pro Z17 A12UMST-237IN Gaming ,444990,,Intel,i7,12.0,14,32.0,32,ddr4,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,3.0
+asus,Asus Vivobook S15 OLED S3502ZA-L701WS ,87500,73.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Creator Z16P B12UKST-209IN Gaming ,395000,,Intel,i9,12.0,14,64.0,64,ddr5,SSD,2048.0,17.3, 2560 x 1600 ,Windows 11 ,2.0
+acer,Acer Aspire 3 UN.HVTSI.012 ,29990,,AMD,ryzen,3.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Yoga 6 82UD0069IN ,78990,69.0,AMD,ryzen,5.0,6,16.0,16,lpddr4x,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,3.0
+msi,MSI Creator Pro M16 A12UJS-601IN Gaming ,196990,,Intel,i7,12.0,14,32.0,32,ddr4,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,3.0
+chuwi,Chuwi Gemibook Pro ,27489,,Intel,celeron,,4,8.0,8,lpddr4x,SSD,256.0,14.0, 2160 x 1440 ,Windows 11 ,1.0
+hp,HP Omen 16-n0051AX Gaming ,160018,81.0,AMD,ryzen,6.0,8,32.0,32,ddr5,SSD,1024.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Omen 16-k0370TX Gaming ,180880,85.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Ideapad Flex 5 82R70068IN ,75990,62.0,Intel,i5,12.0,10,8.0,8,lpddr4x,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP Omen 16-n0054AX Gaming ,139680,74.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,16.1, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Thinkbook 15 21DJA04LIH ,67490,60.0,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell XPS 9315 ,129990,,Intel,i7,12.0,10,16.0,16,lpddr5,SSD,512.0,13.4, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Omen 16-n0049AX Gaming ,116180,66.0,AMD,ryzen,6.0,8,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Omen 16-n0050AX Gaming ,99800,66.0,AMD,ryzen,6.0,8,16.0,16,ddr4,SSD,512.0,16.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo V14 Gen 2 ITL 82KAA001IH ,49999,,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,DOS,1.0
+lenovo,Lenovo ThinkBook 13s Gen 2 20V9A03QIH ,69990,,Intel,i5,11.0,4,8.0,8,lpddr4,SSD,512.0,13.0, 1920 x 1200 ,Windows 10 ,1.0
+dell,Dell Vostro 15 3500 2022 ,67999,,Intel,i5,11.0,,8.0,8,ddr4,SSD,512.0,,,Windows 11 ,1.0
+lenovo,Lenovo Thinkpad E14 Gen 21E3S05800 ,102490,66.0,Intel,i7,12.0,10,16.0,16,ddr4,SSD,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Yoga 9 82LU008TIN ,179990,69.0,Intel,i7,12.0,14,16.0,16,lpddr5,SSD,1024.0,14.0, 3840 x 2160 ,Windows 11 ,1.0
+dell,Dell Vostro 3510 2022 ,49850,,Intel,i3,11.0,2,16.0,16,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+lenovo,Lenovo Yoga 7 Flip 82QE0060IN,111990,69.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+fujitsu,Fujitsu UH-X 4ZR1K06212 ,99990,68.0,Intel,i7,12.0,10,16.0,16,ram,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,2.0
+gigabyte,Gigabyte G5 RC45MD ,74990,71.0,Intel,i5,11.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+gigabyte,Gigabyte G5 RC45GD ,68990,71.0,Intel,i5,11.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+gigabyte,Gigabyte G5 RC45KD ,87800,72.0,Intel,i5,11.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Thinkpad E14 20TAS13R00 ,89149,62.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.1, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Latitude 3520 ,38850,,Intel,i3,11.0,2,8.0,8,ram,SSD,256.0,15.6, 1366 x 768 ,Ubuntu ,1.0
+honor,Honor MagicBook X15 BohrBR-WAH9F ,67818,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,
+lenovo,Lenovo ThinkBook 14 20VDA0QTIH ,60100,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,DOS,1.0
+hp,HP ProBook 450 G8 4Y7G3PA ,48500,61.0,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1366 x 768 ,Windows 10 ,3.0
+dell,Dell Vostro 3510 2022 ,53100,,Intel,i3,11.0,2,16.0,16,ddr4,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,
+lenovo,Lenovo Ideapad Flex 5 82HS015PIN ,62500,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer TravelMate TMB311-31 ,24990,,Intel,celeron,,4,4.0,4,ddr4,SSD,128.0,11.6, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkPad E15 20TDS0T900 ,44990,,Intel,i3,11.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+fujitsu,Fujitsu UH-X 4ZR1J37875 ,89990,68.0,Intel,i5,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,2.0
+dell,Dell Vostro 3510 2022 ,49800,,Intel,i3,11.0,2,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+fujitsu,Fujitsu UH-X 4ZR1J37876 ,99990,69.0,Intel,i7,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.3, 1920 x 1080 ,Windows 11 ,2.0
+lenovo,Lenovo ThinkPad E15 20TDS0TA00 ,71300,60.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 5320 ,78990,,Intel,i5,12.0,12,16.0,16,lpddr5,SSD,512.0,13.3, 2560 x 1600 ,Windows 11 ,1.0
+lenovo,Lenovo V15 Gen 2 ITL 82KB00JKIH ,57900,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo ThinkPad E14 20RAS0LY00 ,42500,,Intel,i3,10.0,2,4.0,4,ddr4,SSD,256.0,14.0, 1920 x 1080 ,DOS,1.0
+dell,Dell XPS 13 Plus ,171000,69.0,Intel,i5,12.0,12,16.0,16,lpddr5,SSD,512.0,13.4, 3840 x 2400 ,Windows 11 ,1.0
+acer,Acer Aspire 3 A315-23 ,51500,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Nitro 5 AN515-46 ,99990,76.0,AMD,ryzen,5.0,6,16.0,16,ddr4,Hard Disk,1024.0,15.6, 2560 x 1440 ,Windows 11 ,
+acer,Acer Aspire 5 A515-45-R1YC ,44990,,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+acer,Acer Nitro 5 AN515-46 Gaming ,129990,,AMD,ryzen,,,16.0,16,,Hard Disk,,,,Win11 Home,
+hp,HP Envy 16-h0025tx ,192490,76.0,Intel,i9,12.0,14,16.0,16,ddr5,SSD,1024.0,16.0, 3840 x 2160 ,Windows 11 ,1.0
+hp,HP Omen 16-C0136AX ,75299,72.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,16.1, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo Legion 5 Pro 82RG009AIN ,149990,76.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+hp,HP Envy x360 13-bf0058TU ,103000,67.0,Intel,i5,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.3, 2880 x 1800 ,Windows 11 ,1.0
+hp,HP Envy x360 16-h0028TX ,143990,69.0,Intel,i7,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.3, 3840 x 2400 ,Windows 11 ,1.0
+lenovo,Lenovo Legion 5 Pro 82RG00EKIN ,177999,82.0,AMD,ryzen,6.0,8,32.0,32,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+gigabyte,Gigabyte Aero 5 XE4 OLED ,185490,81.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+lenovo,Lenovo V14-IIL 82C4019YIH ,48000,,Intel,i5,10.0,4,4.0,4,ddr4,SSD,256.0,14.0, 1366 x 768 ,Windows 10 ,1.0
+lenovo,Lenovo V14 G2-ITL 82KAA025IH ,51500,,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+hp,HP Chromebook 14a-na1004TU ,25020,,Intel,celeron,,2,4.0,4,lpddr4,Hard Disk,64.0,14.0, 1366 x 768 ,Chrome ,1.0
+asus,Asus VivoBook 14 2022 X1402ZA-MW512WS ,66990,67.0,Intel,i5,12.0,12,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Latitude 3420 ,74999,65.0,Intel,i5,11.0,4,16.0,16,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,Windows 10 ,
+lenovo,Lenovo E41-55 ‎82C700FNGE ,21999,,AMD,athlon,,2,4.0,4,ram,Hard Disk,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP 250 G8 6G9R1PA Notebook,35899,,Intel,i3,11.0,,8.0,8,ddr4,SSD,512.0,,,DOS,1.0
+acer,Acer TravelMate TMP215-53 ,26990,,Intel,pentium,,2,4.0,4,ddr4,Hard Disk,1024.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Slim 5 82FG01HAIN ,62990,,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+honor,Honor Magicbook V14 2022 ,68999,71.0,Intel,i5,12.0,12,16.0,16,lpddr5,SSD,512.0,14.2, 2520 x 1680 ,Windows 11 ,
+lenovo,Lenovo ThinkPad X1 Yoga 20XYS00R00 ,248890,66.0,Intel,i7,11.0,4,16.0,16,ram,SSD,1024.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+huawei,Huawei MateBook D14 ,71975,62.0,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo ThinkPad T14 2021 20W0S03F00 ,87000,66.0,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+msi,MSI Creator M16 A11UC-669IN ,115990,78.0,Intel,i7,11.0,8,16.0,16,ddr4,SSD,512.0,16.0, 2560 x 1600 ,Windows 10 ,1.0
+dell,Dell Inspiron 3511 ,48000,,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,15.56, 1920 x 1080 ,Windows 11 ,
+huawei,Huawei MateBook 14 2021‎ WDH9A ,100931,61.0,Intel,i5,11.0,4,8.0,8,ram,SSD,512.0,14.0, 2160 x 1440 ,Windows 10 ,1.0
+asus,Asus ROG Zephyrus G14 GA402RJZ-L4136WS Gaming ,155000,82.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Flow X16 2022 GV601RM-M5053WS Gaming ,187990,87.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,16.0, 2560 x 1600 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 82KU00LQIN ,36524,,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+huawei,Huawei MateBook X Pro 2022 ,113999,65.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,512.0,14.2, 3120 x 2080 ,Windows 11 ,1.0
+lenovo,Lenovo V14 Gen 2 82KAA002IH ,47199,,Intel,i5,11.0,4,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,DOS,1.0
+lenovo,Lenovo ThinkBook 13s ITL Gen 2 20V9A036IH ,85999,65.0,Intel,i7,11.0,4,16.0,16,lpddr4,SSD,512.0,13.0, 2560 x 1600 ,Windows 11 ,1.0
+lenovo,Lenovo V14 ITL G2 ‎82KA009RIX ,68495,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,256.0,14.1, 1920 x 1080 ,Windows 11 ,1.0
+huawei,Huawei MateBook X Pro 2022 ,124990,66.0,Intel,i7,12.0,12,16.0,16,lpddr5,SSD,1024.0,14.2, 3120 x 2080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad Flex 5 82R7006HIN ,74490,69.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Gaming Katana GF76 11UD-849IN ,76169,69.0,Intel,i7,11.0,8,16.0,16,ram,SSD,512.0,17.32, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo Yoga Slim 7 Pro 82NC00FRIN ,74517,62.0,Intel,i5,11.0,4,16.0,16,lpddr4x,SSD,512.0,14.0, 2880 x 1800 ,Windows 11 ,1.0
+acer,Acer Swift X SFX14-41G ,76000,65.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+acer,Acer Swift X SFX14-41G ,79730,66.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+dell,Dell Vostro 3400 ,38499,,Intel,i3,11.0,2,8.0,8,ddr4,Hard Disk,1024.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+gigabyte,Gigabyte Aorus 5 SE4 Gaming ,144990,75.0,Intel,i7,12.0,14,16.0,16,ddr4,Hard Disk,,,,Windows 11 ,2.0
+asus,Asus ROG Flow X13 GV301RE-LJ156WS Gaming ,171990,81.0,AMD,ryzen,6.0,8,32.0,32,lpddr5,SSD,1024.0,13.4, 1920 x 1200 ,Windows 11 ,1.0
+lenovo,Lenovo Thinkbook 14 Gen 2 20VDA0G9IH ,83399,,Intel,i5,10.0,4,8.0,8,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+agb,AGB Octev GA-9009 Gaming ,65000,61.0,Intel,i7,11.0,4,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 10 ,1.0
+lenovo,Lenovo Thinkpad L13 Gen 2 20VHS07500 ,92999,66.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,3.0
+lenovo,Lenovo 15ACH6 82JW00P5IN ,69990,71.0,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1200 ,Windows 11 ,1.0
+acer,Acer Nitro 5 AN515-45 NH.QCLSI.004 Gaming ,66918,67.0,AMD,ryzen,5.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+gigabyte,Gigabyte Aero 5 KE4 OLED ,143990,79.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+lenovo,Lenovo V14 G2-ITL 82KA00G8IH ,29500,,Intel,i3,11.0,2,4.0,4,ddr4,SSD,256.0,14.0, 1920 x 1080 ,DOS,1.0
+lenovo,Lenovo IdeaPad Slim 5 15ITL05 82SE0061IN ,63990,62.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+acer,Acer Spin 3 SP314-55N ,84999,,Intel,i5,12.0,10,16.0,16,lpddr4x,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Crosshair 15 B12UEZ-897IN Gaming ,111990,76.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+msi,MSI Vector GP76 12UGSO-868IN Gaming ,185890,82.0,Intel,i7,12.0,14,16.0,16,ddr5,SSD,1024.0,17.3, 1920 x 1080 ,Windows 11 ,2.0
+msi,MSI Creator M16 A12UD-633IN ,105990,79.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,512.0,16.0, 2560 x 1660 ,Windows 11 ,2.0
+msi,MSI Creator Pro M16 A12UIS-634IN Gaming ,119990,80.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,1024.0,16.0, 2560 x 1660 ,Windows 11 ,2.0
+msi,MSI Thin GF63 11SC-1046IN Gaming ,51990,69.0,Intel,i5,11.0,6,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,2.0
+asus,Asus ROG Strix SCAR 17 SE G733CX-LL021X Gaming ,359999,85.0,Intel,i9,12.0,,32.0,32,ddr5,SSD,4096.0,17.3, 2560 x 1440 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkPad X1 Carbon 20XWS1XJ00 ,245250,62.0,Intel,i7,11.0,4,16.0,16,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+chuwi,Chuwi HeroBook Pro ,23990,,Intel,,,2,8.0,8,ddr3,SSD,256.0,14.1, 1366 x 768 ,Windows 10 ,0.08
+acer,Acer Aspire 3 A315-23 NX.HVTSI.008 ,35990,,AMD,ryzen,3.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+msi,MSI Gaming Katana GF66 12UE-262IN ,144834,75.0,Intel,i7,12.0,14,16.0,16,ram,SSD,1024.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus ROG Strix Scar 15 G533ZXZ-LN116WS Gaming ,281990,87.0,Intel,i9,12.0,14,32.0,32,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+msi,MSI Katana GF76 11UE-485IN ,92900,72.0,Intel,i7,11.0,8,16.0,16,ram,SSD,512.0,17.32, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo IdeaPad 3 15ITL6 82H802KYIN ,51990,,Intel,i5,11.0,4,8.0,8,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+lenovo,Lenovo ThinkPad E15 20T8S0MD00 ,86700,62.0,AMD,ryzen,4.0,8,8.0,8,ram,SSD,512.0,14.0, 1920 x 1080 ,Windows 10 ,1.0
+asus,Asus Vivobook S14 Flip 2022 TN3402QA-LZ501WS ,68200,,AMD,ryzen,5.0,6,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+asus,Asus VivoBook Ultra K14 K413EA-EB523WS ,56990,61.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1080 ,Windows 11 ,1.0
+asus,Asus VivoBook 15 X515JA-EJ312WS ,32990,,Intel,i3,10.0,2,8.0,8,ddr4,SSD,256.0,15.6, 1920 x 1080 ,Windows 11 ,1.0
+hp,HP Spectre x360 13-ef0057TU ,108990,69.0,Intel,i5,12.0,10,16.0,16,lpddr4x,SSD,512.0,13.5, 1920 x 1280 ,Windows 11 ,1.0
+dell,Dell Inspiron 7420 D560828WIN9S ,80990,,Intel,i5,12.0,10,16.0,16,ddr4,SSD,512.0,14.0, 1920 x 1200 ,Windows 11 ,1.0
+hp,HP Spectre x360 13-ef0052TU OLED ,110480,67.0,Intel,i5,12.0,10,8.0,8,lpddr4x,SSD,512.0,13.5, 3000 x 2000 ,Windows 11 ,1.0
+asus,Asus ROG Strix G17 G713RM-KH168W Gaming ,137028,67.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,17.3, 1920 x 1080 ,Windows 11 ,1.0
+gigabyte,Gigabyte Aorus 15 XE5 Gaming ,184900,82.0,Intel,i7,12.0,14,16.0,16,ddr4,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,2.0
+hp,HP Spectre x360 16-f1009TX ,176990,74.0,Intel,i7,12.0,12,16.0,16,lpddr4x,SSD,1024.0,16.0, 3840 x 2400 ,Windows 11 ,1.0
+asus,Asus ROG Zephyrus G15 2022 GA503RM-HQ030WS Gaming ,161990,84.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+msi,MSI Stealth GS77 12UGS Gaming ,308990,,Intel,i7,12.0,14,32.0,32,ddr5,SSD,2048.0,17.3, 2560 x 1440 ,Windows 11 ,2.0
+asus,Asus ProArt StudioBook Pro 16 H7600ZW-L711WS ,238121,,Intel,i7,12.0,14,32.0,32,ddr5,SSD,1024.0,16.0, 3840 x 2400 ,Windows 10 ,1.0
+asus,Asus ProArt StudioBook Pro 16 H7600ZM-L901WS ,217490,87.0,Intel,i9,12.0,14,16.0,16,ddr5,SSD,1024.0,16.0, 3840 x 2400 ,Windows 11 ,1.0
+dell,Dell Latitude 3420 ,42000,,Intel,i3,11.0,2,4.0,4,ddr4,SSD,512.0,14.0, 1366 x 768 ,Ubuntu ,1.0
+hp,HP 250 G8 64Q91PA ,64000,,Intel,i5,11.0,4,8.0,8,ddr4,Hard Disk,1024.0,15.6, 1366 x 768 ,Windows 11 ,1.0
+asus,Asus ROG Zephyrus G15 2022 GA503RM-HQ057WS Gaming ,161990,85.0,AMD,ryzen,6.0,8,16.0,16,ddr5,SSD,1024.0,15.6, 2560 x 1440 ,Windows 11 ,1.0
+dell,Dell Latitude 3420 ,34800,,Intel,i3,11.0,2,4.0,4,ddr4,SSD,256.0,14.0, 1366 x 768 ,Ubuntu ,1.0
+dell,Dell Latitude 3420 ,41500,,Intel,i3,11.0,2,4.0,4,ddr4,Hard Disk,1024.0,14.0, 1366 x 768 ,Ubuntu ,
+lenovo,Lenovo Ideapad Slim 5 82FG01B5IN ,72759,67.0,Intel,i5,11.0,4,16.0,16,ddr4,SSD,512.0,15.6, 1920 x 1080 ,Windows 11 ,1.0

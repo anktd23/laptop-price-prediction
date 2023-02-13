@@ -103,8 +103,8 @@ We have now 15 features with 1016 records.
 - type of core - 'float' -number of cores each processor have e.g.2,4,6,8 etc.
 - no of threads - 'float' - no of therads.
 - storage type - 'object' -type of storage e.g Hard disk, SSD
-- storage capcity - 'float' - storage capacity in GB's
-- Ram - RAM of the particular model in GB.
+- storage capcity - 'float' - storage capacity in GB's.
+- Ram - 'int' - RAM of the particular model in GB.
 - ram type - 'object' - ram type eg.DDR4,LPDDR5 etc
 - ppi - 'float' - pixel per inches
 - OS - 'object' - Operating system type e.g Windows,Mac,Ubuntu,Android
