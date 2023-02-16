@@ -1,9 +1,6 @@
 laptop.html
 .ipynb_checkpoints
 laptop_raw_data.xlsx
-model_training - ANN.ipynb
-logs
-artifact
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,154 @@
+brand_names,price,score,processor brand,processor type,processor gen,type of core,no of threads,Ram,ram type,storage type,storage capacity,ppi,OS,Warranty
+asus,56990,61.0,Intel,i5,11.0,4.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+hp,63350,62.0,Intel,i5,12.0,12.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+lenovo,51018,69.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+asus,159990,78.0,Intel,i9,12.0,14.0,32.0,32,lpddr5,SSD,1024.0,242.5880862529,Windows 11,1.0
+others,68999,71.0,Intel,i5,12.0,12.0,16.0,16,lpddr5,SSD,512.0,213.286131788,Windows 11,
+hp,21833,,AMD,athlon,3.0,2.0,4.0,4,ddr4,SSD,256.0,141.2119980822,DOS,1.0
+msi,105000,76.0,Intel,i7,12.0,14.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,2.0
+lenovo,68495,,Intel,i5,11.0,4.0,8.0,8,ddr4,SSD,256.0,156.2345510697,Windows 11,1.0
+asus,79990,71.0,Intel,i5,12.0,12.0,16.0,16,ddr4,SSD,512.0,161.7253908353,Windows 11,1.0
+msi,275990,79.0,Intel,i7,12.0,14.0,32.0,32,ddr5,SSD,1024.0,188.2826641096,Windows 11,2.0
+hp,59990,61.0,AMD,ryzen,5.0,6.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+dell,36400,,AMD,ryzen,3.0,2.0,8.0,8,ddr4,Hard Disk,1024.0,157.3505121487,Windows 11,
+hp,89990,66.0,Intel,i7,12.0,12.0,16.0,16,ddr4,SSD,1024.0,141.2119980822,Windows 11,1.0
+others,55990,62.0,Intel,i5,10.0,4.0,8.0,8,ddr4,SSD,256.0,141.2119980822,Windows 10,3.0
+asus,49990,66.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,141.5097169808,Windows 11,1.0
+dell,63300,65.0,Intel,i5,11.0,4.0,8.0,8,ddr4,Hard Disk,1024.0,141.2119980822,Windows 11,
+dell,39880,60.0,AMD,ryzen,3.0,2.0,4.0,4,ddr4,Hard Disk,1024.0,141.2119980822,Windows 10,
+lenovo,31990,,Intel,i3,10.0,2.0,8.0,8,ddr4,Hard Disk,1024.0,141.2119980822,Windows 11,1.0
+acer,77559,69.0,Intel,i5,12.0,8.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+hp,33990,,Intel,i3,11.0,2.0,8.0,8,ram,Hard Disk,1024.0,111.9352035596,Windows 10,1.0
+asus,41999,,Intel,i5,10.0,4.0,8.0,8,ddr4,SSD,256.0,141.2119980822,Windows 10,1.0
+lenovo,35499,61.0,Intel,i3,11.0,2.0,8.0,8,ddr4,Hard Disk,1024.0,141.2119980822,Windows 11,
+msi,90256,67.0,Intel,i5,12.0,12.0,16.0,16,ddr4,SSD,1024.0,141.2119980822,Windows 11,2.0
+hp,36499,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,512.0,100.4546698611,Windows 11,1.0
+asus,41990,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+acer,57990,63.0,Intel,i5,12.0,10.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+asus,75990,72.0,Intel,i5,12.0,8.0,8.0,8,ddr5,SSD,512.0,141.2119980822,Windows 11,1.0
+hp,69990,63.0,Intel,i5,12.0,12.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+dell,76800,65.0,Intel,i5,11.0,4.0,16.0,16,ddr4,Hard Disk,1024.0,111.9352035596,Windows 10,
+hp,114990,71.0,Intel,i7,12.0,10.0,16.0,16,lpddr4x,SSD,1024.0,255.3558802662,Windows 11,1.0
+hp,104990,68.0,Intel,i7,12.0,10.0,16.0,16,lpddr4x,SSD,512.0,255.3558802662,Windows 11,1.0
+dell,55990,,Intel,i5,11.0,4.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 10,1.0
+others,54999,,Intel,i5,8.0,4.0,8.0,8,ddr4,SSD,512.0,136.8265323032,Windows 10,
+asus,56990,69.0,Intel,i7,11.0,4.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+asus,39490,,Intel,i3,11.0,4.0,8.0,8,ddr4,SSD,512.0,156.2345510697,Windows 11,1.0
+dell,96890,73.0,Intel,i7,11.0,4.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 10,1.0
+lenovo,87000,66.0,Intel,i5,11.0,4.0,8.0,8,ddr4,SSD,512.0,157.3505121487,Windows 10,1.0
+hp,27949,,AMD,ryzen,3.0,2.0,8.0,8,ddr4,SSD,512.0,111.9352035596,Windows 11,1.0
+asus,53500,61.0,Intel,i5,11.0,4.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+lenovo,62600,65.0,AMD,ryzen,5.0,6.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+hp,27499,,AMD,athlon,3.0,2.0,8.0,8,ddr4,Hard Disk,1024.0,100.4546698611,Windows 11,1.0
+asus,72990,63.0,AMD,ryzen,5.0,6.0,16.0,16,ddr4,SSD,512.0,161.7253908353,Windows 11,1.0
+others,93490,71.0,Intel,i7,12.0,12.0,16.0,16,lpddr5,SSD,512.0,161.7253908353,Windows 11,1.0
+msi,43400,,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+lenovo,172990,67.0,Intel,i7,11.0,4.0,16.0,16,lpddr4x,SSD,1024.0,314.7010242975,Windows 10,1.0
+dell,77499,60.0,Intel,i5,10.0,4.0,8.0,8,ddr4,SSD,256.0,157.3505121487,Windows 10,1.0
+hp,124999,71.0,Intel,i7,11.0,8.0,16.0,16,ddr4,SSD,1024.0,136.8265323032,Windows 11,1.0
+hp,55499,,Intel,i5,11.0,4.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+others,79990,63.0,Intel,i5,12.0,12.0,8.0,8,lpddr4x,SSD,512.0,141.2119980822,Windows 11,1.0
+others,54990,,Intel,i7,10.0,4.0,16.0,16,lpddr4x,SSD,512.0,157.3505121487,Windows 11,1.0
+others,59990,62.0,Intel,i5,11.0,4.0,16.0,16,lpddr4x,SSD,512.0,165.6321180513,Windows 11,1.0
+lenovo,40490,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+asus,66990,72.0,AMD,ryzen,5.0,8.0,16.0,16,ddr4,SSD,512.0,141.5097169808,Windows 11,1.0
+hp,63900,,Intel,i5,12.0,10.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+others,21999,,others,others,,8.0,2.0,2,ram,Hard Disk,64.0,111.9352035596,others,1.0
+dell,69890,68.0,Intel,i5,11.0,4.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 10,1.0
+apple,150990,,Apple,m2,,8.0,16.0,16,unified,SSD,512.0,224.5056083177,Mac,1.0
+acer,129990,,AMD,ryzen,,,16.0,16,,Hard Disk,,,others,
+lenovo,25990,,Intel,celeron,4.0,2.0,4.0,4,ddr4,SSD,256.0,111.9352035596,Windows 10,1.0
+dell,34800,,Intel,i3,11.0,2.0,4.0,4,ddr4,SSD,256.0,111.9352035596,others,1.0
+dell,31734,,Intel,pentium,,4.0,8.0,8,ddr4,SSD,256.0,100.4546698611,Windows 11,1.0
+lenovo,72990,65.0,AMD,ryzen,5.0,8.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+dell,45990,65.0,Intel,i3,11.0,4.0,8.0,8,ddr4,SSD,256.0,157.3505121487,Windows 10,1.0
+dell,147490,85.0,Intel,i7,12.0,14.0,16.0,16,ddr5,SSD,1024.0,188.2826641096,Windows 11,1.0
+others,69990,,Intel,i5,12.0,10.0,16.0,16,lpddr4x,SSD,512.0,141.2119980822,Windows 11,1.0
+others,100931,61.0,Intel,i5,11.0,4.0,8.0,8,ram,SSD,512.0,185.4283513096,Windows 10,1.0
+lenovo,71990,67.0,AMD,ryzen,5.0,8.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+dell,41490,61.0,AMD,ryzen,5.0,4.0,8.0,8,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+asus,54490,67.0,AMD,ryzen,5.0,6.0,16.0,16,ddr4,SSD,512.0,141.5097169808,Windows 11,1.0
+dell,71990,66.0,AMD,ryzen,5.0,6.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+apple,104990,,Apple,m1,,8.0,8.0,8,ddr4,SSD,512.0,226.9830046811,Mac,1.0
+dell,54000,,Intel,i5,10.0,4.0,8.0,8,ddr4,SSD,512.0,111.9352035596,others,1.0
+others,60498,65.0,Intel,i5,11.0,4.0,8.0,8,ddr4,SSD,512.0,241.896952104,Windows 10,1.0
+hp,77990,65.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,165.6321180513,Windows 11,1.0
+lenovo,21499,,Intel,celeron,,4.0,4.0,4,ddr4,Hard Disk,128.0,142.7941099194,Windows 10,1.0
+others,185490,81.0,Intel,i7,12.0,14.0,16.0,16,ddr4,SSD,1024.0,141.2119980822,Windows 11,2.0
+lenovo,36400,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,256.0,141.2119980822,Windows 11,1.0
+hp,43210,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+asus,54980,68.0,AMD,ryzen,5.0,6.0,16.0,16,ddr4,SSD,512.0,141.5097169808,Windows 11,1.0
+hp,206500,76.0,Intel,i7,12.0,,32.0,32,ddr5,SSD,1024.0,182.4353764043,Windows 11,1.0
+dell,69900,61.0,Intel,i5,12.0,10.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+lenovo,29990,,Intel,i3,10.0,2.0,4.0,4,ddr4,SSD,256.0,141.2119980822,Windows 11,1.0
+dell,51790,62.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+asus,42990,,Intel,i3,12.0,10.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+asus,66990,67.0,Intel,i5,12.0,12.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+asus,86890,,AMD,ryzen,4.0,8.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+dell,69790,69.0,Intel,i5,11.0,6.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+dell,138990,71.0,Intel,i9,12.0,14.0,16.0,16,lpddr5,SSD,1024.0,188.2826641096,Windows 11,1.0
+dell,50990,67.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 10,1.0
+dell,67999,,Intel,i5,11.0,,8.0,8,ddr4,SSD,512.0,,Windows 11,1.0
+msi,60800,69.0,Intel,i5,10.0,6.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,2.0
+lenovo,18990,,AMD,athlon,,2.0,4.0,4,ddr4,SSD,256.0,157.3505121487,Windows 11,1.0
+others,52999,65.0,Intel,i5,12.0,10.0,16.0,16,lpddr4x,SSD,512.0,188.6796226411,Windows 11,1.0
+acer,37990,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+dell,84990,67.0,Intel,i5,12.0,12.0,16.0,16,ddr5,SSD,512.0,141.2119980822,Windows 11,1.0
+asus,29990,,Intel,pentium,,4.0,4.0,4,lpddr4x,Hard Disk,128.0,165.6321180513,Windows 11,1.0
+asus,187990,87.0,AMD,ryzen,6.0,8.0,16.0,16,ddr5,SSD,1024.0,188.6796226411,Windows 11,1.0
+others,38990,,Intel,i5,10.0,4.0,16.0,16,lpddr4x,SSD,512.0,157.3505121487,Windows 11,1.0
+hp,104990,81.0,AMD,ryzen,6.0,8.0,16.0,16,ddr5,SSD,512.0,136.8265323032,Windows 11,1.0
+msi,144834,75.0,Intel,i7,12.0,14.0,16.0,16,ram,SSD,1024.0,141.2119980822,Windows 11,1.0
+acer,79730,66.0,AMD,ryzen,5.0,6.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+asus,89990,63.0,Intel,i7,11.0,4.0,16.0,16,lpddr4x,SSD,1024.0,157.3505121487,Windows 11,1.0
+acer,18490,,Intel,celeron,,2.0,4.0,4,ddr4,Hard Disk,32.0,135.0942111926,Chrome,
+asus,107990,75.0,AMD,ryzen,6.0,8.0,16.0,16,ddr5,SSD,1024.0,141.2119980822,Windows 11,1.0
+others,56490,60.0,Intel,i5,11.0,4.0,8.0,8,ddr4,SSD,512.0,215.633854447,Windows 10,1.0
+lenovo,58490,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+msi,59990,62.0,Intel,i5,10.0,,8.0,8,ddr4,SSD,512.0,,Windows 10,2.0
+apple,172775,73.0,Intel,i7,9.0,6.0,16.0,16,ddr4,SSD,1024.0,226.4155471694,others,1.0
+asus,134990,75.0,Intel,i7,12.0,14.0,16.0,16,lpddr5,SSD,512.0,242.5880862529,Windows 11,1.0
+asus,86990,73.0,Intel,i5,12.0,8.0,16.0,16,lpddr5,SSD,512.0,141.2119980822,Windows 11,1.0
+hp,146000,66.0,Intel,i7,8.0,4.0,8.0,8,ddr4,SSD,512.0,157.3505121487,Windows 10,3.0
+acer,47990,,Intel,i3,12.0,6.0,8.0,8,ram,SSD,512.0,141.2119980822,Windows 11,1.0
+hp,52545,60.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+hp,26490,,AMD,ryzen,3.0,2.0,8.0,8,ddr4,SSD,512.0,111.9352035596,DOS,1.0
+acer,99990,79.0,AMD,ryzen,5.0,6.0,16.0,16,ddr4,Hard Disk,1024.0,188.2826641096,Windows 11,
+hp,43990,61.0,Intel,i3,11.0,2.0,8.0,8,ddr4,Hard Disk,1024.0,141.2119980822,Windows 11,
+dell,55111,,Intel,i5,12.0,10.0,8.0,8,ddr4,Hard Disk,1024.0,141.2119980822,Windows 11,
+apple,139990,,Apple,m2,,8.0,16.0,16,unified,SSD,256.0,226.9830046811,Mac,1.0
+dell,65390,,Intel,i5,12.0,10.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+hp,99800,66.0,AMD,ryzen,6.0,8.0,16.0,16,ddr4,SSD,512.0,137.6816981301,Windows 11,1.0
+lenovo,20990,,AMD,athlon,3.0,2.0,4.0,4,ddr4,SSD,256.0,111.9352035596,Windows 10,1.0
+msi,64250,71.0,Intel,i5,11.0,6.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 10,2.0
+hp,52990,63.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 10,1.0
+lenovo,78990,75.0,AMD,ryzen,5.0,8.0,16.0,16,ddr4,SSD,512.0,161.7253908353,Windows 11,1.0
+apple,296894,61.0,Apple,m1,,10.0,32.0,32,unified,SSD,1024.0,254.0233485459,Mac,1.0
+dell,58000,68.0,Intel,i5,11.0,4.0,8.0,8,ddr4,Hard Disk,1024.0,157.3505121487,Windows 10,
+dell,149899,78.0,Intel,i9,12.0,14.0,16.0,16,ddr5,SSD,1024.0,141.2119980822,Windows 11,1.0
+hp,62510,,AMD,ryzen,5.0,6.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+hp,55200,60.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+dell,87999,65.0,Intel,i5,11.0,4.0,16.0,16,ddr4,SSD,256.0,165.6321180513,Windows 10,1.0
+asus,53990,65.0,AMD,ryzen,5.0,6.0,8.0,8,ddr4,Hard Disk,1024.0,141.2119980822,Windows 11,
+dell,56990,65.0,Intel,i5,8.0,4.0,8.0,8,ddr4,Hard Disk,1024.0,157.3505121487,Windows 10,1.0
+dell,48494,,Intel,i5,11.0,4.0,8.0,8,ddr4,SSD,256.0,141.2119980822,Windows 10,1.0
+hp,37950,,AMD,ryzen,5.0,4.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+lenovo,16890,,Intel,celeron,,2.0,4.0,4,lpddr4,Hard Disk,,,Chrome,1.0
+dell,41350,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,256.0,141.2119980822,Windows 10,1.0
+hp,38900,,Intel,i3,11.0,4.0,8.0,8,ddr4,SSD,256.0,141.2119980822,Windows 11,1.0
+hp,41135,61.0,Intel,i3,11.0,2.0,8.0,8,ddr4,Hard Disk,1024.0,141.2119980822,Windows 11,
+others,59411,,Intel,i5,10.0,,8.0,8,ddr4,SSD,1024.0,,Windows 10,
+lenovo,62990,67.0,Intel,i5,10.0,4.0,8.0,8,ddr4,SSD,512.0,141.2119980822,Windows 10,1.0
+hp,71990,62.0,Intel,i5,12.0,10.0,16.0,16,ddr4,SSD,512.0,157.3505121487,Windows 11,1.0
+dell,129990,,Intel,i7,12.0,10.0,16.0,16,lpddr5,SSD,512.0,164.3960574688,Windows 11,1.0
+acer,119409,78.0,Intel,i9,11.0,8.0,16.0,16,ddr4,SSD,1024.0,188.2826641096,Windows 11,1.0
+others,95449,,Intel,i5,12.0,10.0,8.0,8,lpddr5,SSD,128.0,266.2560941881,Windows 11,1.0
+lenovo,62990,,Intel,i5,11.0,4.0,16.0,16,ddr4,SSD,512.0,141.2119980822,Windows 11,1.0
+others,119990,74.0,Intel,i7,12.0,12.0,16.0,16,lpddr5,SSD,1024.0,177.5808213093,Windows 11,1.0
+hp,149999,,Intel,i7,10.0,,16.0,16,ram,SSD,1024.0,,Windows 10,1.0
+asus,90990,75.0,AMD,ryzen,4.0,8.0,16.0,16,ddr4,SSD,1024.0,141.2119980822,Windows 11,1.0
+others,29990,,Intel,i3,10.0,2.0,8.0,8,ram,SSD,256.0,157.3505121487,Windows 10,1.0
+msi,125990,75.0,Intel,i9,12.0,14.0,16.0,16,ddr4,SSD,1024.0,188.2826641096,Windows 11,2.0
+hp,35990,,Intel,i3,11.0,2.0,8.0,8,ddr4,SSD,256.0,157.3505121487,Windows 11,1.0
+hp,42300,,Intel,i3,11.0,4.0,8.0,8,ddr4,SSD,256.0,141.2119980822,Windows 11,1.0
+dell,66500,,Intel,i5,11.0,4.0,8.0,8,ram,SSD,512.0,157.3505121487,Windows 10,1.0
