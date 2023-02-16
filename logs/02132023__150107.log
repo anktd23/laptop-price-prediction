@@ -1,0 +1,17 @@
+[ 2023-02-13 15:01:10,301 ] 15 root - INFO - >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Data Ingestion <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+[ 2023-02-13 15:01:10,301 ] 22 root - INFO - Exporting collection data as pandas dataframe
+[ 2023-02-13 15:01:10,301 ] 21 root - INFO - Reading data from database: laptop_data and collection: laptop
+[ 2023-02-13 15:01:10,535 ] 23 root - INFO - Found columns: Index(['_id', 'brand_names', 'price', 'score', 'processor brand',
+       'processor type', 'processor gen', 'type of core', 'no of threads',
+       'Ram', 'ram type', 'storage type', 'storage capacity', 'ppi', 'OS',
+       'Warranty'],
+      dtype='object')
+[ 2023-02-13 15:01:10,535 ] 25 root - INFO - Dropping column: _id 
+[ 2023-02-13 15:01:10,535 ] 27 root - INFO - Row and columns in df: (1016, 15)
+[ 2023-02-13 15:01:10,535 ] 28 root - INFO - Save data in feature store
+[ 2023-02-13 15:01:10,535 ] 34 root - INFO - Create feature store folder if not available
+[ 2023-02-13 15:01:10,535 ] 38 root - INFO - Save df to feature store folder
+[ 2023-02-13 15:01:10,551 ] 43 root - INFO - split dataset into train and test set
+[ 2023-02-13 15:01:10,551 ] 47 root - INFO - create dataset directory folder if not available
+[ 2023-02-13 15:01:10,551 ] 52 root - INFO - Save df to feature store folder
+[ 2023-02-13 15:01:10,567 ] 64 root - INFO - Data ingestion artifact: DataIngestionArtifact(feature_store_file_path='F:\\Project\\laptop-price-prediction\\artifact\\02132023__150110\\data_ingestion\\feature_store\\cleaned_data.csv', train_file_path='F:\\Project\\laptop-price-prediction\\artifact\\02132023__150110\\data_ingestion\\dataset\\train.csv', test_file_path='F:\\Project\\laptop-price-prediction\\artifact\\02132023__150110\\data_ingestion\\dataset\\test.csv')
