@@ -75,30 +75,30 @@ We have now 15 features with 1016 records.
 
 ## Pre-processing:
 - `Missing value imputation` : 
-    - 1. Complete Case Analysis-Drop the row 
+    - Complete Case Analysis-Drop the row 
       (This method is used when data is missed at random(MCAR))
     
-    - 2. Univariate Imputation -Numerical
-          - 2.1 Mean-Median Imputation 
+    - Univariate Imputation -Numerical
+          - Mean-Median Imputation 
               (This method is used when data is missing at random(MCAR))
-              - 2.1.1 Using Pandas
-              - 2.1.2 Using SciKit learn-Simple imputer (strategy = mean/median)
-          - 2.2 Arbitary Value Imputation 
+              - Using Pandas
+              - Using SciKit learn-Simple imputer (strategy = mean/median)
+          - Arbitary Value Imputation 
               (This method is used when data is not missing at random)
-              - 2.2.1 Using Pandas
-              - 2.2.2 Using SciKit learn-Simple imputer(strategy = constant)
-          - 2.3. End of distribution Imputation
-              - 2.3.1 Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
-              - 2.3.2 Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
+              - Using Pandas
+              - Using SciKit learn-Simple imputer(strategy = constant)
+          - End of distribution Imputation
+              - Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
+              - Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
            
-    - 3. Univariate Imputation -Categorical
-          - 3.1 Frequent value imputation (mode)
-          - 3.2 Missing catergory imputation (strategy='constant',fill_value='Missing')
+    - Univariate Imputation -Categorical
+          - Frequent value imputation (mode)
+          - Missing catergory imputation (strategy='constant',fill_value='Missing')
 
-    - 4. Random Value Imputation
-    - 5. Missing Value Indicator
-    - 6. KNN imputer
-    - 7. MICE-Multivariate Imputation By Chained Equations algorithm
+    - Random Value Imputation
+    - Missing Value Indicator
+    - KNN imputer
+    - MICE-Multivariate Imputation By Chained Equations algorithm
 `Since we have less data we cannot drop the rows.`
 `data is missing at random hence we are not using Arbitary value imputation,Random Value Imputation`
 `We have experimented with below imputation method`
@@ -173,25 +173,25 @@ We have experimented using various missing value imputation methods on below alg
 
 Top 2 algorithm.
 - `Experiment 1: KNN imputer`
-    1. Gradient Boosting - 0.857
-    2. Random Forest     - 0.852(overfitting)
+    - Gradient Boosting - 0.857
+    - Random Forest     - 0.852(overfitting)
 - `Experiment 2: Simple Imputer(strategy=median)`
-    1. XGB               - 0.877(overfitting)
-    2. Gradient Boosting - 0.858
+    - XGB               - 0.877(overfitting)
+    - Gradient Boosting - 0.858
 - `Experiment 3: MICE`
-    1. Gradient Boosting - 0.854
-    2. Random Forest     - 0.806(overfitting)
+    - Gradient Boosting - 0.854
+    - Random Forest     - 0.806(overfitting)
 - `Experiment 4: Simple Imputer(strategy=constant)`
-    1. Gradient Boosting - 0.864
-    2. Random Forest     - 0.833(overfitting)
+    - Gradient Boosting - 0.864
+    - Random Forest     - 0.833(overfitting)
 - `Experiment 5: Simple Imputer(strategy=mean)`
-    1. XGB               - 0.861(overfitting)
-    2. Gradient Boosting - 0.860
+    - XGB               - 0.861(overfitting)
+    - Gradient Boosting - 0.860
 - `Experiment 6: PCA(strategy = median)`
-    1. XGB               - 0.877(overfitting)
-    2. Gradient Boosting - 0.858
+    - XGB               - 0.877(overfitting)
+    - Gradient Boosting - 0.858
 - `Experiment 7: ANN Algorithm(strategy=Mean)
-    1. ANN                - 0.762
+    - ANN                - 0.762
     
 - In all experiment gradient boosting performing well giving best accuarcy 0.864 in experiment 5.
 
@@ -201,23 +201,23 @@ Top 2 algorithm.
 
 To 2 ML algorithm.
 - `Experiment 1: KNN imputer`
-   `1. Gradient Boosting - 0.913`
-    2. Random Forest     - 0.893
+    - `Gradient Boosting - 0.913`
+    - Random Forest     - 0.893
 - Experiment 2: Simple Imputer(strategy=median)
-    1. Gradient Boosting - 0.884
-    2. XGB               - 0.848 
+    - Gradient Boosting - 0.884
+    - XGB               - 0.848 
 - Experiment 3: MICE
-    1. Gradient Boosting - 0.888
-    2. Random Forest     - 0.876
+    - Gradient Boosting - 0.888
+    - Random Forest     - 0.876
 - Experiment 4: Simple Imputer(strategy=constant)
-    1. Random Forest     - 0.889
-    2. Gradient Boosting - 0.875
+    - Random Forest     - 0.889
+    - Gradient Boosting - 0.875
 - Experiment 5: Simple Imputer(strategy=mean)
-    1. Random Forest     - 0.899
-    2. Gradient Boosting - 0.890 
+    - Random Forest     - 0.899
+    - Gradient Boosting - 0.890 
 - Experiment 6: PCA(stratrgy = median)
-    1. Gradient Boosting - 0.884
-    2. XGB               - 0.848
+    - Gradient Boosting - 0.884
+    - XGB               - 0.848
 - `Experiment 7: ANN Algorithm(strategy=Mean)
-    1. ANN                - 0.817
+    - ANN                - 0.817
 We get best tset accuracy `91.3% using Gradient Boosting with KNN imputation`.
