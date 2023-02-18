@@ -1,7 +1,7 @@
 # Laptop Price Prediction
 
 ## Problem Statement :
-```bash
+```
 - Designed a web app that predicts the price of the laptop given the configurations.
 - Scraped the laptops data from smartpix.com using selenium and BeautifulSoup package
 - Use various ML/DL approach to find best model.
