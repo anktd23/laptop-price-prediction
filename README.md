@@ -220,4 +220,4 @@ To 2 ML algorithm.
     - XGB               - 0.848
 - `Experiment 7: ANN Algorithm(strategy=Mean)
     - ANN                - 0.817
-We get best tset accuracy `91.3% using Gradient Boosting with KNN imputation`.
+## We get best tset accuracy `91.3% using Gradient Boosting with KNN imputation`.
