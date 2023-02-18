@@ -154,17 +154,17 @@ and the 3rd quartile (75th quantile).`
 ## Model building and evaluation
 We have experimented using various missing value imputation methods on below algorithms.
 `ML Approach`
-- 1. Linear Regression
-- 2. Lasso Regression
-- 3. Ridge Regression
-- 4. DT Regressor
-- 5. Random Forest Regressor
-- 6. Gradient Boosting Regressor
-- 7. Adaboost Regressor
-- 8. XGB Regressor
-- 9. K-Neighbors Regressor
-- 10. SVR
-- 11. PCA
+1. Linear Regression
+2. Lasso Regression
+3. Ridge Regression
+4. DT Regressor
+5. Random Forest Regressor
+6. Gradient Boosting Regressor
+7. Adaboost Regressor
+8. XGB Regressor
+9. K-Neighbors Regressor
+10. SVR
+11. PCA
 
 `DL Approach`
 - ANN Algorithm
@@ -195,7 +195,6 @@ Top 2 algorithm.
     
 - In all experiment gradient boosting performing well giving best accuarcy 0.864 in experiment 5.
 
-```
 ## Hyperparameter tuning
 
 - `Result` :
@@ -221,4 +220,4 @@ To 2 ML algorithm.
     2. XGB               - 0.848
 - `Experiment 7: ANN Algorithm(strategy=Mean)
     1. ANN                - 0.817
-### We get best accuracy `91.3% using Gradient Boosting with KNN imputation`.
+We get best tset accuracy `91.3% using Gradient Boosting with KNN imputation`.
