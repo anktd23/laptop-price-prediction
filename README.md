@@ -75,29 +75,29 @@ We have now 15 features with 1016 records.
 
 ## Pre-processing:
 - `Missing value imputation` : 
-    - Complete Case Analysis-Drop the row 
-      (This method is used when data is missed at random(MCAR))
+  - Complete Case Analysis-Drop the row 
+    (This method is used when data is missed at random(MCAR))
     
-    - Univariate Imputation -Numerical
-          - Mean-Median Imputation 
-              (This method is used when data is missing at random(MCAR))
-              - Using Pandas
-              - Using SciKit learn-Simple imputer (strategy = mean/median)
-          - Arbitary Value Imputation 
-              (This method is used when data is not missing at random)
-              - Using Pandas
-              - Using SciKit learn-Simple imputer(strategy = constant)
-          - End of distribution Imputation
-              - Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
-              - Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
-           
-    - Univariate Imputation -Categorical
-          - Frequent value imputation (mode)
-          - Missing catergory imputation (strategy='constant',fill_value='Missing')
+  - Univariate Imputation -Numerical
+        - Mean-Median Imputation 
+            (This method is used when data is missing at random(MCAR))
+            - Using Pandas
+            - Using SciKit learn-Simple imputer (strategy = mean/median)
+        - Arbitary Value Imputation 
+            (This method is used when data is not missing at random)
+            - Using Pandas
+            - Using SciKit learn-Simple imputer(strategy = constant)
+        - End of distribution Imputation
+            - Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
+            - Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
 
-    - Random Value Imputation
-    - Missing Value Indicator
-    - KNN imputer
+  - Univariate Imputation -Categorical
+        - Frequent value imputation (mode)
+        - Missing catergory imputation (strategy='constant',fill_value='Missing')
+
+  - Random Value Imputation
+  - Missing Value Indicator
+  - KNN imputer
     - MICE-Multivariate Imputation By Chained Equations algorithm
 `Since we have less data we cannot drop the rows.`
 `data is missing at random hence we are not using Arbitary value imputation,Random Value Imputation`
@@ -118,13 +118,13 @@ We have now 15 features with 1016 records.
     - 4. `Label Encoding` : Handling categorical values in target features. 
 
 - `Outliers handling` : 
-    - 1. Z score method -Identify outliers as values that are a specified number of standard deviations away from the mean.
+  - 1. Z score method -Identify outliers as values that are a specified number of standard deviations away from the mean.
        (when data is normally distributed)
-    - 2. Trimming
-    - 3. Capping
-    - 4. IQR (Interquartile Range) method: Identify outliers as values that are below the first quartile - 1.5 times
+  - 2. Trimming
+  - 3. Capping
+  - 4. IQR (Interquartile Range) method: Identify outliers as values that are below the first quartile - 1.5 times
        the interquartile range  or above the third quartile + 1.5 times the interquartile range.
-    - 5. winsorization -Replacing the outliers with a specified value, such as the minimum or maximum value in the dataset, 
+  - 5. winsorization -Replacing the outliers with a specified value, such as the minimum or maximum value in the dataset, 
        or with the value at a specified percentile.
 `Most of the features are not normally distributed, Z score method, trimming, Capping not useful.`
 `We are using IQR method for outlier handling.`
@@ -190,7 +190,7 @@ Top 2 algorithm.
 - `Experiment 6: PCA(strategy = median)`
     - XGB               - 0.877(overfitting)
     - Gradient Boosting - 0.858
-- `Experiment 7: ANN Algorithm(strategy=Mean)
+- `Experiment 7`: ANN Algorithm(strategy=Mean)
     - ANN                - 0.762
     
 - In all experiment gradient boosting performing well giving best accuarcy 0.864 in experiment 5.
