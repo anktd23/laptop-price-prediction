@@ -92,8 +92,8 @@ We have now 15 features with 1016 records.
     - Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
 
   - Univariate Imputation -Categorical
-        - Frequent value imputation (mode)
-        - Missing catergory imputation (strategy='constant',fill_value='Missing')
+      - Frequent value imputation (mode)
+      - Missing catergory imputation (strategy='constant',fill_value='Missing')
 
   - Random Value Imputation
   - Missing Value Indicator
