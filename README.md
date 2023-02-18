@@ -75,30 +75,30 @@ We have now 15 features with 1016 records.
 
 ## Pre-processing:
 - `Missing value imputation` : 
-    1. Complete Case Analysis-Drop the row 
-    (This method is used when data is missed at random(MCAR))
+    - 1. Complete Case Analysis-Drop the row 
+      (This method is used when data is missed at random(MCAR))
     
-    2. Univariate Imputation -Numerical
-        2.1 Mean-Median Imputation 
-            (This method is used when data is missing at random(MCAR))
-            2.1.1 Using Pandas
-            2.1.2 Using SciKit learn-Simple imputer (strategy = mean/median)
-        2.2 Arbitary Value Imputation 
-            (This method is used when data is not missing at random)
-            2.2.1 Using Pandas
-            2.2.2 Using SciKit learn-Simple imputer(strategy = constant)
-        2.3. End of distribution Imputation
-            2.3.1 Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
-            2.3.2 Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
+    - 2. Univariate Imputation -Numerical
+          - 2.1 Mean-Median Imputation 
+              (This method is used when data is missing at random(MCAR))
+              - 2.1.1 Using Pandas
+              - 2.1.2 Using SciKit learn-Simple imputer (strategy = mean/median)
+          - 2.2 Arbitary Value Imputation 
+              (This method is used when data is not missing at random)
+              - 2.2.1 Using Pandas
+              - 2.2.2 Using SciKit learn-Simple imputer(strategy = constant)
+          - 2.3. End of distribution Imputation
+              - 2.3.1 Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
+              - 2.3.2 Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
            
-    3. Univariate Imputation -Categorical
-        3.1 Frequent value imputation (mode)
-        3.2 Missing catergory imputation (strategy='constant',fill_value='Missing')
-    
-    4. Random Value Imputation
-    5. Missing Value Indicator
-    6. KNN imputer
-    7. MICE-Multivariate Imputation By Chained Equations algorithm
+    - 3. Univariate Imputation -Categorical
+          - 3.1 Frequent value imputation (mode)
+          - 3.2 Missing catergory imputation (strategy='constant',fill_value='Missing')
+
+    - 4. Random Value Imputation
+    - 5. Missing Value Indicator
+    - 6. KNN imputer
+    - 7. MICE-Multivariate Imputation By Chained Equations algorithm
 `Since we have less data we cannot drop the rows.`
 `data is missing at random hence we are not using Arbitary value imputation,Random Value Imputation`
 `We have experimented with below imputation method`
@@ -107,34 +107,34 @@ We have now 15 features with 1016 records.
     - MICE
 
 - `Encoding`: 
-    1. `Ordinal encoding`: Assign an ordered integer value to each category, reflecting the relative order 
+    - 1. `Ordinal encoding`: Assign an ordered integer value to each category, reflecting the relative order 
                            or importance of the categories.
     
-    2. `One-hot encoding`: Represent each unique category as a binary variable, with a value of 1 indicating 
+    - 2. `One-hot encoding`: Represent each unique category as a binary variable, with a value of 1 indicating 
                          the presence of the category and a value 0 indicating its absence.
                          
-    3. `Using Pandas` : getdummies(one hot encoding)
+    - 3. `Using Pandas` : getdummies(one hot encoding)
     
-    4. `Label Encoding` : Handling categorical values in target features. 
+    - 4. `Label Encoding` : Handling categorical values in target features. 
 
 - `Outliers handling` : 
-    1. Z score method -Identify outliers as values that are a specified number of standard deviations away from the mean.
+    - 1. Z score method -Identify outliers as values that are a specified number of standard deviations away from the mean.
        (when data is normally distributed)
-    2. Trimming
-    3. Capping
-    4. IQR (Interquartile Range) method: Identify outliers as values that are below the first quartile - 1.5 times
+    - 2. Trimming
+    - 3. Capping
+    - 4. IQR (Interquartile Range) method: Identify outliers as values that are below the first quartile - 1.5 times
        the interquartile range  or above the third quartile + 1.5 times the interquartile range.
-    5. winsorization -Replacing the outliers with a specified value, such as the minimum or maximum value in the dataset, 
+    - 5. winsorization -Replacing the outliers with a specified value, such as the minimum or maximum value in the dataset, 
        or with the value at a specified percentile.
 `Most of the features are not normally distributed, Z score method, trimming, Capping not useful.`
 `We are using IQR method for outlier handling.`
 
 - `Scaling`: 
-    1. Min-Max Scaling: Scale the values of the variables between 0 and 1.
-    2. Standardization(Z-score normalization): Scale the values of the variables to have a mean of zero and a standard deviation of one.
-    3. Max Absolute Scaling: Scale the values of the variables between -1 and 1.
-    4. Robust Scaling: Scale the values of the variables using the median and interquartile range to make the scaling robust to outliers.
-    5. Normalization: Scale the values of the variables to have a sum of one.
+    - 1. `Min-Max Scaling`: Scale the values of the variables between 0 and 1.
+    - 2. `Standardization(Z-score normalization)`: Scale the values of the variables to have a mean of zero and a standard deviation of one.
+    - 3. `Max Absolute Scaling`: Scale the values of the variables between -1 and 1.
+    - 4. `Robust Scaling`: Scale the values of the variables using the median and interquartile range to make the scaling robust to outliers.
+    - 5. `Normalization`: Scale the values of the variables to have a sum of one.
 
 `Since most of the independent variables are not normally distributed we cannot use Standardscaler`
 `most of the feature has outliers. So Minmax will scale data according to Max values which is outlier.`
