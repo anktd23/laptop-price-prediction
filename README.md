@@ -29,11 +29,10 @@ and ramaining are the independent features.
 
 ## Data Assesment & Cleaning
 - Types of Assessment
-There are 2 types of assessment styles
-1. Manual - Looking through the data manually in google sheets
-2. Programmatic - By using pandas functions such as info(), describe() or sample()
+1. `Manual` - Looking through the data manually in google sheets
+2. `Programmatic` - By using pandas functions such as info(), describe() or sample()
 
-- Scraped dataset have various quality issues and tidiness issues.Please refer 
+- Scraped dataset have various `quality issues` and `tidiness issues`.Please refer 
 data_accessing_and_cleaning.ipynb for more details.
 
 - After dataset cleaning we are able to extract more information from raw dataset.
@@ -56,8 +55,8 @@ Initially we have 10 features which further breakdowns to 17 features and 1016 e
 - `ram type`          - 'object' - ram type eg.DDR4,LPDDR5 etc
 - `screen size`       - 'float' screen size in inches.
 - `screen resolution` - 'object' - screen resolution in pixels.
-- OS                  - 'object' - Operating system type e.g Windows,Mac,Ubuntu,Android
-- warranty            - 'object' Warranty offered by companies in years.
+- `OS`                - 'object' - Operating system type e.g Windows,Mac,Ubuntu,Android
+- `warranty`          - 'object' Warranty offered by companies in years.
 
 ## EDA :
 - `Univariate analysis` : Analyze each variable individually to understand their distribution and characteristics.
@@ -77,35 +76,32 @@ We have now 15 features with 1016 records.
 ## Pre-processing:
 - `Missing value imputation` : 
     1. Complete Case Analysis-Drop the row 
-    #This method is used when data is missed at random(MCAR)
+    (This method is used when data is missed at random(MCAR))
     
     2. Univariate Imputation -Numerical
         2.1 Mean-Median Imputation 
-        # This method is used when data is missing at random(MCAR)
+            (This method is used when data is missing at random(MCAR))
             2.1.1 Using Pandas
             2.1.2 Using SciKit learn-Simple imputer (strategy = mean/median)
         2.2 Arbitary Value Imputation 
-        #This method is used when data is not missing at random
+            (This method is used when data is not missing at random)
             2.2.1 Using Pandas
             2.2.2 Using SciKit learn-Simple imputer(strategy = constant)
         2.3. End of distribution Imputation
             2.3.1 Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
             2.3.2 Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
-            3.
+           
     3. Univariate Imputation -Categorical
         3.1 Frequent value imputation (mode)
         3.2 Missing catergory imputation (strategy='constant',fill_value='Missing')
-        4.
+    
     4. Random Value Imputation
-    
-    6. Missing Value Indicator
-    
-    8. KNN imputer
-    9. 
-    10. MICE-Multivariate Imputation By Chained Equations algorithm
-# Since we have less data we cannot drop the rows.
-# data is missing at random hence we are not using Arbitary value imputation,Random Value Imputation
-# We have experimented with below imputation method
+    5. Missing Value Indicator
+    6. KNN imputer
+    7. MICE-Multivariate Imputation By Chained Equations algorithm
+`Since we have less data we cannot drop the rows.`
+`data is missing at random hence we are not using Arbitary value imputation,Random Value Imputation`
+`We have experimented with below imputation method`
     - KNN imputation
     - Sci Kit learn Simple Imputer(strategy=mean/median/constant)
     - MICE
@@ -123,15 +119,15 @@ We have now 15 features with 1016 records.
 
 - `Outliers handling` : 
     1. Z score method -Identify outliers as values that are a specified number of standard deviations away from the mean.
-       # when data is normally distributed
+       (when data is normally distributed)
     2. Trimming
     3. Capping
     4. IQR (Interquartile Range) method: Identify outliers as values that are below the first quartile - 1.5 times
        the interquartile range  or above the third quartile + 1.5 times the interquartile range.
     5. winsorization -Replacing the outliers with a specified value, such as the minimum or maximum value in the dataset, 
        or with the value at a specified percentile.
-# Most of the features are not normally distributed, Z score method, trimming, Capping not useful.
-# We are using IQR method for outlier handling.
+`Most of the features are not normally distributed, Z score method, trimming, Capping not useful.`
+`We are using IQR method for outlier handling.`
 
 - `Scaling`: 
     1. Min-Max Scaling: Scale the values of the variables between 0 and 1.
@@ -140,14 +136,20 @@ We have now 15 features with 1016 records.
     4. Robust Scaling: Scale the values of the variables using the median and interquartile range to make the scaling robust to outliers.
     5. Normalization: Scale the values of the variables to have a sum of one.
 
-# Since most of the independent variables are not normally distributed we cannot use Standardscaler
-# because most of the feature has outliers. So Minmax will scale data according to Max values which is outlier.
-# Robust Scaler removes the median and scales the data according to the quantile range (defaults to IQR: Interquartile Range).The IQR is the range between the 1st quartile (25th quantile) and the 3rd quartile (75th quantile).
+`Since most of the independent variables are not normally distributed we cannot use Standardscaler`
+`most of the feature has outliers. So Minmax will scale data according to Max values which is outlier.`
+`Robust Scaler removes the median and scales the data according to the quantile range 
+(defaults to IQR: Interquartile Range).The IQR is the range between the 1st quartile (25th quantile) 
+and the 3rd quartile (75th quantile).`
 
 - `Dimenssionality Reduction`:
    Reducing the dimensionality of the data using techniques like PCA or feature selection.
 
-- Pipeline: Pipeline class in scikit-learn is a useful tool for creating a series of steps for transforming and applying machine learning algorithms to a dataset. It simplifies the process of testing and tuning various components of a machine learning system, and provides a convenient and consistent way of applying the same steps to both training and test data.
+- `Pipeline`: Pipeline class in scikit-learn is a useful tool for creating a series of steps for transforming
+ and applying machine learning algorithms to a dataset. It simplifies the process of testing and tuning various
+ components of a machine learning system, and provides a convenient and consistent way of applying the same steps
+ to both training and test data.We used pipeline `for data preprocessing like encoding,scaling,missing value 
+ handling and outlier handling` etc.
 
 ## Model building and evaluation
 We have experimented using various missing value imputation methods on below algorithms.
