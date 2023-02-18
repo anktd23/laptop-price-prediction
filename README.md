@@ -6,21 +6,12 @@
 * Use various ML/DL approach to find best model.
 * Deploy model using flask library on cloud.
 
-## Web Scraping :
-```bash
+## Web Scraping 
 Data is scraped from smartpix.com website using selenium & BeautifulSoup. We try to extract the 
 different features of the laptops such as:
-- model name
-- price
-- score
-- processor
-- no of cores
-- storage
-- ram
-- display
-- os
-- warranty
-```
+- model name        - price         - score         - processor
+- no of cores       - storage       - ram       - display
+- os                - warranty
 
 ## Dataset :
 ```bash
