@@ -79,17 +79,17 @@ We have now 15 features with 1016 records.
     (This method is used when data is missed at random(MCAR))
     
   - Univariate Imputation -Numerical
-        - Mean-Median Imputation 
-            (This method is used when data is missing at random(MCAR))
-            - Using Pandas
-            - Using SciKit learn-Simple imputer (strategy = mean/median)
-        - Arbitary Value Imputation 
-            (This method is used when data is not missing at random)
-            - Using Pandas
-            - Using SciKit learn-Simple imputer(strategy = constant)
-        - End of distribution Imputation
-            - Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
-            - Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
+   - Mean-Median Imputation 
+     (This method is used when data is missing at random(MCAR))
+    - Using Pandas
+    - Using SciKit learn-Simple imputer (strategy = mean/median)
+   - Arbitary Value Imputation 
+    (This method is used when data is not missing at random)
+    - Using Pandas
+    - Using SciKit learn-Simple imputer(strategy = constant)
+   - End of distribution Imputation
+    - Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
+    - Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
 
   - Univariate Imputation -Categorical
         - Frequent value imputation (mode)
@@ -98,7 +98,7 @@ We have now 15 features with 1016 records.
   - Random Value Imputation
   - Missing Value Indicator
   - KNN imputer
-    - MICE-Multivariate Imputation By Chained Equations algorithm
+  - MICE-Multivariate Imputation By Chained Equations algorithm
 `Since we have less data we cannot drop the rows.`
 `data is missing at random hence we are not using Arbitary value imputation,Random Value Imputation`
 `We have experimented with below imputation method`
@@ -107,34 +107,34 @@ We have now 15 features with 1016 records.
     - MICE
 
 - `Encoding`: 
-    - 1. `Ordinal encoding`: Assign an ordered integer value to each category, reflecting the relative order 
+    - `Ordinal encoding`: Assign an ordered integer value to each category, reflecting the relative order 
                            or importance of the categories.
     
-    - 2. `One-hot encoding`: Represent each unique category as a binary variable, with a value of 1 indicating 
+    - `One-hot encoding`: Represent each unique category as a binary variable, with a value of 1 indicating 
                          the presence of the category and a value 0 indicating its absence.
                          
-    - 3. `Using Pandas` : getdummies(one hot encoding)
+    - `Using Pandas` : getdummies(one hot encoding)
     
-    - 4. `Label Encoding` : Handling categorical values in target features. 
+    - `Label Encoding` : Handling categorical values in target features. 
 
 - `Outliers handling` : 
-  - 1. Z score method -Identify outliers as values that are a specified number of standard deviations away from the mean.
+  - Z score method -Identify outliers as values that are a specified number of standard deviations away from the mean.
        (when data is normally distributed)
-  - 2. Trimming
-  - 3. Capping
-  - 4. IQR (Interquartile Range) method: Identify outliers as values that are below the first quartile - 1.5 times
+  - Trimming
+  - Capping
+  - IQR (Interquartile Range) method: Identify outliers as values that are below the first quartile - 1.5 times
        the interquartile range  or above the third quartile + 1.5 times the interquartile range.
-  - 5. winsorization -Replacing the outliers with a specified value, such as the minimum or maximum value in the dataset, 
+  - winsorization -Replacing the outliers with a specified value, such as the minimum or maximum value in the dataset, 
        or with the value at a specified percentile.
 `Most of the features are not normally distributed, Z score method, trimming, Capping not useful.`
 `We are using IQR method for outlier handling.`
 
 - `Scaling`: 
-    - 1. `Min-Max Scaling`: Scale the values of the variables between 0 and 1.
-    - 2. `Standardization(Z-score normalization)`: Scale the values of the variables to have a mean of zero and a standard deviation of one.
-    - 3. `Max Absolute Scaling`: Scale the values of the variables between -1 and 1.
-    - 4. `Robust Scaling`: Scale the values of the variables using the median and interquartile range to make the scaling robust to outliers.
-    - 5. `Normalization`: Scale the values of the variables to have a sum of one.
+    - `Min-Max Scaling`: Scale the values of the variables between 0 and 1.
+    - `Standardization(Z-score normalization)`: Scale the values of the variables to have a mean of zero and a standard deviation of one.
+    - `Max Absolute Scaling`: Scale the values of the variables between -1 and 1.
+    - `Robust Scaling`: Scale the values of the variables using the median and interquartile range to make the scaling robust to outliers.
+    - `Normalization`: Scale the values of the variables to have a sum of one.
 
 `Since most of the independent variables are not normally distributed we cannot use Standardscaler`
 `most of the feature has outliers. So Minmax will scale data according to Max values which is outlier.`
