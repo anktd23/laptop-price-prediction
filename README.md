@@ -79,17 +79,17 @@ We have now 15 features with 1016 records.
     (This method is used when data is missed at random(MCAR))
     
   - Univariate Imputation -Numerical
-   - Mean-Median Imputation 
-     (This method is used when data is missing at random(MCAR))
-    - Using Pandas
-    - Using SciKit learn-Simple imputer (strategy = mean/median)
-   - Arbitary Value Imputation 
-    (This method is used when data is not missing at random)
-    - Using Pandas
-    - Using SciKit learn-Simple imputer(strategy = constant)
+    - Mean-Median Imputation 
+      (This method is used when data is missing at random(MCAR))
+        - Using Pandas
+        - Using SciKit learn-Simple imputer (strategy = mean/median)
+     - Arbitary Value Imputation 
+       (This method is used when data is not missing at random)
+        - Using Pandas
+        - Using SciKit learn-Simple imputer(strategy = constant)
    - End of distribution Imputation
-    - Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
-    - Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
+     - Fill value by mean + 3*sigma or mean- 3*sigma if data is normally distributed
+     - Fill value by Q1-1.5*IQR or  Q3+1.5*IQR id distribution is skewed
 
   - Univariate Imputation -Categorical
       - Frequent value imputation (mode)
