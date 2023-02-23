@@ -5,6 +5,8 @@ model_training - ANN-Copy1.ipynb
 .log
 logs
 artifact
+project
+SAVED_MODELS
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
