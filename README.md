@@ -1,13 +1,13 @@
+
 # Laptop Price Prediction
-
 ## Problem Statement :
-* Designed a web app that predicts the price of the laptop given the configurations.
-* Scraped the laptops data from smartpix.com using selenium and BeautifulSoup package
-* Use various ML/DL approach to find best model.
-* Deploy model using flask library on cloud.
-
+- Designed a web app that predicts the price of the laptop given the configurations.
+- Scraped the laptops data from smartpix.com using selenium and BeautifulSoup package
+- Use various ML/DL approach to find best model.
+- Automate it using MLOPs.
+- Deploy model on cloud using.
 ## Web Scraping 
-Data is scraped from smartpix.com website using selenium & BeautifulSoup.
+Data is scraped from **smartpix.com** website using **selenium & BeautifulSoup**.
 Extract the different features of the laptops such as:model name,price,score,processor,
 no of cores,storage,ram,display,os,warranty etc.
 
@@ -171,53 +171,33 @@ We have experimented using various missing value imputation methods on below alg
 
 - `Result` :
 
-Top 2 algorithm.
-- `Experiment 1: KNN imputer`
-    - Gradient Boosting - 0.857
-    - Random Forest     - 0.852(overfitting)
-- `Experiment 2: Simple Imputer(strategy=median)`
-    - XGB               - 0.877(overfitting)
-    - Gradient Boosting - 0.858
-- `Experiment 3: MICE`
-    - Gradient Boosting - 0.854
-    - Random Forest     - 0.806(overfitting)
-- `Experiment 4: Simple Imputer(strategy=constant)`
-    - Gradient Boosting - 0.864
-    - Random Forest     - 0.833(overfitting)
-- `Experiment 5: Simple Imputer(strategy=mean)`
-    - XGB               - 0.861(overfitting)
-    - Gradient Boosting - 0.860
-- `Experiment 6: PCA(strategy = median)`
-    - XGB               - 0.877(overfitting)
-    - Gradient Boosting - 0.858
-- `Experiment 7`: ANN Algorithm(strategy=Mean)
-    - ANN                - 0.762
-    
-- In all experiment gradient boosting performing well giving best accuarcy 0.864 in experiment 5.
+| Experiment  |     Imputation      |   Strategy    |     Algorithm       | Test Accuracy |  Remarks   |
+|-------------|---------------------|---------------|---------------------|---------------|------------|
+|     1       |         KNN         |     K = 3     |   Gradient Boosting |     0.857     |     -      |
+|     2       |   Simple Imputer    |     Median    |   Gradient Boosting |     0.854     |     -      |
+|     3       |       MICE          |      -        |   Gradient Boosting |     0.854     |     -      |
+|     4       |   Simple Imputer    |    constant   |   Gradient Boosting |     0.864     |     -      |
+|     5       |   Simple Imputer    |      Mean     |        XGB          |     0.861     |Overfitting |
+|     6       |       PCA           |    Median     |        XGB          |     0.877     |Overfitting |
+|     7       |   Simple Imputer    |    Mean       |       ANN           |     0.762     |     -      |
+
+
+- In all experiment gradient boosting performing well giving best accuarcy 0.864 in experiment 4.
 
 ## Hyperparameter tuning
 
 - `Result` :
 
-To 2 ML algorithm.
-- `Experiment 1: KNN imputer`
-    - `Gradient Boosting - 0.913`
-    - Random Forest     - 0.893
-- Experiment 2: Simple Imputer(strategy=median)
-    - Gradient Boosting - 0.884
-    - XGB               - 0.848 
-- Experiment 3: MICE
-    - Gradient Boosting - 0.888
-    - Random Forest     - 0.876
-- Experiment 4: Simple Imputer(strategy=constant)
-    - Random Forest     - 0.889
-    - Gradient Boosting - 0.875
-- Experiment 5: Simple Imputer(strategy=mean)
-    - Random Forest     - 0.899
-    - Gradient Boosting - 0.890 
-- Experiment 6: PCA(stratrgy = median)
-    - Gradient Boosting - 0.884
-    - XGB               - 0.848
-- `Experiment 7: ANN Algorithm(strategy=Mean)
-    - ANN                - 0.817
-## We get best tset accuracy `91.3% using Gradient Boosting with KNN imputation`.
+| Experiment  |     Imputation      |   Strategy    |     Algorithm       | Test Accuracy |  Remarks   |
+|-------------|---------------------|---------------|---------------------|---------------|------------|
+|     1       |         KNN         |     K = 3     |   Gradient Boosting |     0.913     |     -      |
+|     2       |   Simple Imputer    |     Median    |   Gradient Boosting |     0.884     |     -      |
+|     3       |       MICE          |      -        |   Gradient Boosting |     0.888     |     -      |
+|     4       |   Simple Imputer    |    constant   |   Random Forest     |     0.889     |     -      |
+|     5       |   Simple Imputer    |      Mean     |   Random Forest     |     0.899     |     -      |
+|     6       |       PCA           |    Median     |   Gradient Boosting |     0.884     |     -      |
+|     7       |   Simple Imputer    |    Mean       |       ANN           |     0.817     |     -      |
+
+
+
+## We get best tset accuracy `91.3% using `Gradient Boosting with KNN imputation`.
