@@ -1,5 +1,6 @@
 
 # Laptop Price Prediction
+![Laptop Price Prediction](https://github.com/anktd23/laptop-price-prediction/blob/main/lpp.png)
 ## Problem Statement :
 - Designed a web app that predicts the price of the laptop given the configurations.
 - Scraped the laptops data from smartpix.com using selenium and BeautifulSoup package
@@ -200,4 +201,4 @@ We have experimented using various missing value imputation methods on below alg
 
 
 
-## We get best tset accuracy `91.3% using `Gradient Boosting with KNN imputation`.
+## We get best tset accuracy `91.3% using Gradient Boosting with KNN imputation`.
