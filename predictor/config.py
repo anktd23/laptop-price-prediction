@@ -15,3 +15,5 @@ env_var = EnvironmentVariable()
 mongo_client = pymongo.MongoClient(env_var.mongo_db_url)
 
 TARGET_COLUMN = ['price']
+num_col = ['score','processor gen','type of core','no of threads','Ram','storage capacity','ppi','Warranty']
+cat_col = ['brand_names','processor brand','processor type','ram type','storage type','OS']
