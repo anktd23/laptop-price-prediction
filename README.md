@@ -7,7 +7,7 @@ Design a application that
 - The configuration should consist of as brand, model, CPU, RAM, storage,display, os, rating, warranty. 
 
 ### Dataset
-- Data to be scraped from E-commerce site using selenium and BeautifulSoup package
+- Data to be scraped from E-commerce site using selenium and BeautifulSoup package.
 
 ### Approach: 
 - The classical machine learning tasks like Data Exploration, Data Cleaning,Feature Engineering,
