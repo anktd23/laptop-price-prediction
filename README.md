@@ -1,10 +1,34 @@
 # Laptop Price Prediction
 
 ## Problem Statement :
-* Designed a web app that predicts the price of the laptop given the configurations.
-* Scraped the laptops data from smartpix.com using selenium and BeautifulSoup package
-* Use various ML/DL approach to find best model.
-* Deploy model using flask library on cloud.
+Design a application that 
+- Aims to use Machine Learning / deep learning to provide accurate and personalized laptop price estimate
+  to users based on their specific configurations.
+- The configuration should consist of as brand, model, CPU, RAM, storage,display, os, rating, warranty. 
+
+### Dataset
+- Data to be scraped from E-commerce site using selenium and BeautifulSoup package
+
+### Approach: 
+- The classical machine learning tasks like Data Exploration, Data Cleaning,Feature Engineering,
+  Model Building and Model Testing. 
+- Try out different machine learning/deep learning algorithms that’s best fit for the above case.
+- Write a code in a modular fashion.
+- Safe: It can be used without causing harm.
+- Testable: It can be tested at the code level.
+- Maintainable: It can be maintained, even as your codebase grows.
+- Portable: It works the same in every environment (operating system)
+- Maintain code on GitHub.
+
+### Database
+- Use MongoDB
+
+### Cloud Deployment
+- Any cloud platform for this entire solution hosting like AWS, Azure or GCP.
+
+### Ops Pipeline
+- use AI ops pipeline for project delivery Ex. DVC, MLflow, Sagemaker , Azure machine learning studio,
+Jenkins, Circle CI, Azure DevOps ,TFX, Travis CI etc.
 
 ## Web Scraping 
 Data is scraped from smartpix.com website using selenium & BeautifulSoup.
