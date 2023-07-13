@@ -1,4 +1,4 @@
-# Laptop Price Prediction.
+# Laptop Price Prediction..
 
 ## Problem Statement :
 Design a application that 
